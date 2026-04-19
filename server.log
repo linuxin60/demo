@@ -1,0 +1,1000 @@
+198.51.100.12 - - [15/Jan/2026:04:47:06 +0000] "GET /api/v1/users HTTP/1.1" 429 18224 "-" "curl/7.88.1" 1011ms
+198.51.100.15 - - [15/Jan/2026:06:14:32 +0000] "GET /favicon.ico HTTP/1.1" 201 2282 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 130ms
+198.51.100.10 - - [15/Jan/2026:07:28:37 +0000] "GET /api/v1/cart HTTP/1.1" 200 47125 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2240ms
+203.0.113.18 - - [15/Jan/2026:08:09:13 +0000] "GET /api/v1/logout HTTP/1.1" 200 45953 "-" "python-requests/2.28.0" 1739ms
+203.0.113.22 - - [15/Jan/2026:19:16:51 +0000] "GET /api/v1/login HTTP/1.1" 200 6538 "-" "python-requests/2.28.0" 1478ms
+203.0.113.3 - - [15/Jan/2026:09:53:40 +0000] "PUT /api/v1/cart HTTP/1.1" 200 25007 "-" "Googlebot/2.1" 330ms
+198.51.100.11 - - [15/Jan/2026:21:14:49 +0000] "POST /favicon.ico HTTP/1.1" 200 46374 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 292ms
+203.0.113.19 - - [15/Jan/2026:14:40:53 +0000] "GET /static/js/app.js HTTP/1.1" 200 6819 "-" "python-requests/2.28.0" 1564ms
+203.0.113.24 - - [15/Jan/2026:19:40:10 +0000] "GET /metrics HTTP/1.1" 200 13930 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1101ms
+198.51.100.6 - - [15/Jan/2026:07:43:20 +0000] "GET /api/v1/products HTTP/1.1" 201 25067 "-" "Googlebot/2.1" 1113ms
+203.0.113.4 - - [15/Jan/2026:02:13:58 +0000] "GET /static/js/app.js HTTP/1.1" 200 20873 "-" "python-requests/2.28.0" 1651ms
+198.51.100.8 - - [15/Jan/2026:04:16:08 +0000] "POST /api/v1/orders HTTP/1.1" 403 32917 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1628ms
+203.0.113.16 - - [15/Jan/2026:11:14:08 +0000] "GET /api/v1/reports HTTP/1.1" 400 28277 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2398ms
+198.51.100.4 - - [15/Jan/2026:20:10:50 +0000] "PUT /api/v1/login HTTP/1.1" 500 3287 "-" "curl/7.88.1" 457ms
+198.51.100.15 - - [15/Jan/2026:14:33:16 +0000] "POST /favicon.ico HTTP/1.1" 200 25416 "-" "Googlebot/2.1" 1571ms
+198.51.100.7 - - [15/Jan/2026:20:21:07 +0000] "GET /api/v1/payments HTTP/1.1" 404 7707 "-" "python-requests/2.28.0" 2207ms
+203.0.113.19 - - [15/Jan/2026:05:32:58 +0000] "POST /api/v1/products HTTP/1.1" 201 412 "-" "Googlebot/2.1" 1086ms
+203.0.113.7 - - [15/Jan/2026:11:48:10 +0000] "GET /static/js/app.js HTTP/1.1" 401 33470 "-" "curl/7.88.1" 822ms
+198.51.100.6 - - [15/Jan/2026:00:07:59 +0000] "DELETE /api/v1/users/profile HTTP/1.1" 200 39452 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1335ms
+203.0.113.24 - - [15/Jan/2026:02:46:31 +0000] "GET /api/v1/orders HTTP/1.1" 200 15985 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2331ms
+203.0.113.5 - - [15/Jan/2026:08:33:55 +0000] "GET /api/v1/products HTTP/1.1" 403 31348 "-" "curl/7.88.1" 2259ms
+198.51.100.10 - - [15/Jan/2026:12:42:41 +0000] "POST /api/v1/orders HTTP/1.1" 304 49697 "-" "python-requests/2.28.0" 831ms
+203.0.113.24 - - [15/Jan/2026:07:04:21 +0000] "PUT /api/v1/users/profile HTTP/1.1" 301 29788 "-" "curl/7.88.1" 503ms
+203.0.113.2 - - [15/Jan/2026:07:04:57 +0000] "GET /favicon.ico HTTP/1.1" 200 671 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 298ms
+203.0.113.3 - - [15/Jan/2026:06:34:08 +0000] "POST /api/v1/login HTTP/1.1" 301 15797 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1148ms
+198.51.100.18 - - [15/Jan/2026:03:42:27 +0000] "PUT /api/v1/orders HTTP/1.1" 204 26877 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 787ms
+203.0.113.23 - - [15/Jan/2026:01:25:46 +0000] "POST /static/css/main.css HTTP/1.1" 201 47980 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 229ms
+203.0.113.22 - - [15/Jan/2026:04:27:11 +0000] "GET /api/v1/orders HTTP/1.1" 200 12665 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2204ms
+203.0.113.18 - - [15/Jan/2026:01:41:34 +0000] "PUT /api/v1/orders HTTP/1.1" 200 29241 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2262ms
+203.0.113.1 - - [15/Jan/2026:15:30:13 +0000] "GET /api/v1/users/profile HTTP/1.1" 500 15691 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 689ms
+203.0.113.26 - - [15/Jan/2026:14:18:27 +0000] "GET /api/v1/products HTTP/1.1" 200 341 "-" "python-requests/2.28.0" 1607ms
+198.51.100.16 - - [15/Jan/2026:18:47:34 +0000] "PUT /api/v1/products HTTP/1.1" 200 19645 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 899ms
+203.0.113.4 - - [15/Jan/2026:16:10:03 +0000] "POST /api/v1/users HTTP/1.1" 200 38484 "-" "Googlebot/2.1" 1960ms
+198.51.100.4 - - [15/Jan/2026:12:07:56 +0000] "GET /static/js/app.js HTTP/1.1" 200 4690 "-" "curl/7.88.1" 286ms
+198.51.100.8 - - [15/Jan/2026:21:37:36 +0000] "GET /favicon.ico HTTP/1.1" 400 2804 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 343ms
+198.51.100.5 - - [15/Jan/2026:08:25:08 +0000] "POST /api/v1/users/profile HTTP/1.1" 200 13586 "-" "curl/7.88.1" 1294ms
+198.51.100.14 - - [15/Jan/2026:14:39:36 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 49474 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 305ms
+203.0.113.7 - - [15/Jan/2026:11:56:04 +0000] "GET /api/v1/cart HTTP/1.1" 200 33353 "-" "curl/7.88.1" 1094ms
+203.0.113.16 - - [15/Jan/2026:19:51:41 +0000] "POST /health HTTP/1.1" 200 28916 "-" "python-requests/2.28.0" 2233ms
+198.51.100.5 - - [15/Jan/2026:08:07:56 +0000] "GET /api/v1/payments HTTP/1.1" 304 19820 "-" "curl/7.88.1" 432ms
+203.0.113.7 - - [15/Jan/2026:06:43:40 +0000] "GET /health HTTP/1.1" 200 39838 "-" "python-requests/2.28.0" 870ms
+203.0.113.17 - - [15/Jan/2026:08:02:00 +0000] "DELETE /api/v1/search?q=laptop HTTP/1.1" 200 3529 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 386ms
+203.0.113.22 - - [15/Jan/2026:22:27:35 +0000] "GET /api/v1/payments HTTP/1.1" 200 10789 "-" "Googlebot/2.1" 1817ms
+203.0.113.1 - - [15/Jan/2026:11:37:35 +0000] "GET /api/v1/login HTTP/1.1" 404 9968 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2242ms
+203.0.113.10 - - [15/Jan/2026:11:13:43 +0000] "POST /api/v1/products HTTP/1.1" 200 20402 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1501ms
+203.0.113.16 - - [15/Jan/2026:23:09:59 +0000] "GET /metrics HTTP/1.1" 502 36892 "-" "Googlebot/2.1" 1672ms
+203.0.113.16 - - [15/Jan/2026:23:59:21 +0000] "GET /api/v1/logout HTTP/1.1" 200 27220 "-" "curl/7.88.1" 109ms
+203.0.113.27 - - [15/Jan/2026:01:54:30 +0000] "GET /health HTTP/1.1" 200 51801 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 450ms
+203.0.113.15 - - [15/Jan/2026:07:01:42 +0000] "GET /static/js/app.js HTTP/1.1" 201 23115 "-" "curl/7.88.1" 1258ms
+203.0.113.13 - - [15/Jan/2026:20:32:25 +0000] "POST /metrics HTTP/1.1" 200 4749 "-" "python-requests/2.28.0" 1151ms
+198.51.100.15 - - [15/Jan/2026:08:02:06 +0000] "POST /api/v1/users HTTP/1.1" 200 17318 "-" "Googlebot/2.1" 739ms
+198.51.100.10 - - [15/Jan/2026:19:32:07 +0000] "POST /metrics HTTP/1.1" 404 51739 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1292ms
+203.0.113.25 - - [15/Jan/2026:16:59:51 +0000] "GET /health HTTP/1.1" 200 46650 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1794ms
+198.51.100.6 - - [15/Jan/2026:10:42:54 +0000] "GET /metrics HTTP/1.1" 201 4785 "-" "Googlebot/2.1" 1360ms
+203.0.113.8 - - [15/Jan/2026:12:44:18 +0000] "GET /api/v1/cart HTTP/1.1" 200 43905 "-" "python-requests/2.28.0" 1680ms
+198.51.100.7 - - [15/Jan/2026:19:36:19 +0000] "GET /api/v1/orders HTTP/1.1" 201 43776 "-" "curl/7.88.1" 1560ms
+203.0.113.26 - - [15/Jan/2026:19:41:20 +0000] "GET /health HTTP/1.1" 200 13974 "-" "Googlebot/2.1" 1768ms
+198.51.100.1 - - [15/Jan/2026:23:10:42 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 404 14205 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2101ms
+203.0.113.6 - - [15/Jan/2026:07:43:19 +0000] "GET /api/v1/cart HTTP/1.1" 403 41680 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1380ms
+203.0.113.15 - - [15/Jan/2026:19:54:49 +0000] "GET /api/v1/products HTTP/1.1" 200 3228 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1010ms
+203.0.113.5 - - [15/Jan/2026:15:25:15 +0000] "PUT /static/css/main.css HTTP/1.1" 401 37927 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 804ms
+203.0.113.10 - - [15/Jan/2026:07:11:51 +0000] "GET /api/v1/users/profile HTTP/1.1" 500 50665 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 444ms
+198.51.100.16 - - [15/Jan/2026:14:08:51 +0000] "DELETE /api/v1/search?q=laptop HTTP/1.1" 200 36730 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1028ms
+198.51.100.1 - - [15/Jan/2026:23:57:32 +0000] "DELETE /api/v1/cart HTTP/1.1" 400 20994 "-" "Googlebot/2.1" 1820ms
+203.0.113.28 - - [15/Jan/2026:08:48:15 +0000] "PUT /api/v1/users/profile HTTP/1.1" 200 48936 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1952ms
+198.51.100.12 - - [15/Jan/2026:08:28:04 +0000] "GET /api/v1/logout HTTP/1.1" 502 34363 "-" "curl/7.88.1" 1992ms
+198.51.100.17 - - [15/Jan/2026:02:08:09 +0000] "GET /api/v1/orders HTTP/1.1" 200 22210 "-" "Googlebot/2.1" 1317ms
+203.0.113.15 - - [15/Jan/2026:13:26:21 +0000] "POST /api/v1/reports HTTP/1.1" 200 46495 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 884ms
+198.51.100.6 - - [15/Jan/2026:18:44:01 +0000] "PUT /static/css/main.css HTTP/1.1" 200 13755 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1728ms
+198.51.100.8 - - [15/Jan/2026:13:34:47 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 200 23252 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1231ms
+198.51.100.19 - - [15/Jan/2026:00:24:21 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 18087 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1793ms
+198.51.100.14 - - [15/Jan/2026:17:01:58 +0000] "POST /api/v1/reports HTTP/1.1" 200 30830 "-" "Googlebot/2.1" 530ms
+203.0.113.26 - - [15/Jan/2026:05:03:16 +0000] "GET /api/v1/login HTTP/1.1" 401 28289 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 563ms
+203.0.113.25 - - [15/Jan/2026:08:48:53 +0000] "POST /api/v1/orders HTTP/1.1" 201 21620 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1390ms
+203.0.113.27 - - [15/Jan/2026:01:22:14 +0000] "GET /static/js/app.js HTTP/1.1" 200 31022 "-" "Googlebot/2.1" 87ms
+198.51.100.13 - - [15/Jan/2026:06:53:01 +0000] "GET /api/v1/logout HTTP/1.1" 403 2838 "-" "curl/7.88.1" 135ms
+198.51.100.11 - - [15/Jan/2026:06:29:44 +0000] "GET /api/v1/orders HTTP/1.1" 200 31235 "-" "Googlebot/2.1" 476ms
+203.0.113.17 - - [15/Jan/2026:09:06:37 +0000] "POST /api/v1/products HTTP/1.1" 400 39996 "-" "curl/7.88.1" 477ms
+203.0.113.2 - - [15/Jan/2026:02:37:44 +0000] "GET /favicon.ico HTTP/1.1" 404 24796 "-" "curl/7.88.1" 1632ms
+198.51.100.12 - - [15/Jan/2026:03:50:36 +0000] "GET /api/v1/login HTTP/1.1" 404 50825 "-" "Googlebot/2.1" 1243ms
+203.0.113.3 - - [15/Jan/2026:16:41:21 +0000] "POST /api/v1/cart HTTP/1.1" 201 43553 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1525ms
+203.0.113.1 - - [15/Jan/2026:20:57:53 +0000] "POST /static/js/app.js HTTP/1.1" 204 7116 "-" "python-requests/2.28.0" 1783ms
+198.51.100.1 - - [15/Jan/2026:19:51:58 +0000] "GET /static/css/main.css HTTP/1.1" 200 48290 "-" "python-requests/2.28.0" 2145ms
+198.51.100.6 - - [15/Jan/2026:07:53:59 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 201 48108 "-" "python-requests/2.28.0" 1107ms
+203.0.113.6 - - [15/Jan/2026:19:42:24 +0000] "GET /api/v1/users/profile HTTP/1.1" 201 16181 "-" "Googlebot/2.1" 1911ms
+203.0.113.22 - - [15/Jan/2026:11:51:16 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 12117 "-" "curl/7.88.1" 2005ms
+203.0.113.22 - - [15/Jan/2026:00:33:12 +0000] "GET /api/v1/users/profile HTTP/1.1" 400 46152 "-" "Googlebot/2.1" 1139ms
+203.0.113.6 - - [15/Jan/2026:22:30:41 +0000] "GET /api/v1/reports HTTP/1.1" 201 32219 "-" "curl/7.88.1" 2282ms
+198.51.100.17 - - [15/Jan/2026:12:44:15 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 200 6298 "-" "curl/7.88.1" 1213ms
+203.0.113.20 - - [15/Jan/2026:23:35:21 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 304 34994 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1416ms
+203.0.113.23 - - [15/Jan/2026:23:12:20 +0000] "PUT /health HTTP/1.1" 200 16675 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 952ms
+203.0.113.8 - - [15/Jan/2026:23:37:48 +0000] "GET /api/v1/orders HTTP/1.1" 200 48605 "-" "python-requests/2.28.0" 1991ms
+198.51.100.5 - - [15/Jan/2026:05:19:00 +0000] "GET /api/v1/login HTTP/1.1" 200 19614 "-" "python-requests/2.28.0" 939ms
+198.51.100.17 - - [15/Jan/2026:22:08:40 +0000] "GET /health HTTP/1.1" 200 3773 "-" "python-requests/2.28.0" 2274ms
+198.51.100.3 - - [15/Jan/2026:15:28:21 +0000] "GET /static/js/app.js HTTP/1.1" 200 37821 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1172ms
+203.0.113.12 - - [15/Jan/2026:15:04:36 +0000] "GET /health HTTP/1.1" 204 7676 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 275ms
+198.51.100.12 - - [15/Jan/2026:07:07:35 +0000] "GET /api/v1/products HTTP/1.1" 200 37086 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1252ms
+203.0.113.27 - - [15/Jan/2026:09:55:37 +0000] "GET /api/v1/logout HTTP/1.1" 301 25128 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1853ms
+203.0.113.28 - - [15/Jan/2026:20:13:16 +0000] "GET /favicon.ico HTTP/1.1" 401 4147 "-" "curl/7.88.1" 414ms
+198.51.100.14 - - [15/Jan/2026:05:00:26 +0000] "GET /api/v1/products HTTP/1.1" 200 11591 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2268ms
+203.0.113.29 - - [15/Jan/2026:22:55:29 +0000] "PUT /health HTTP/1.1" 200 15370 "-" "python-requests/2.28.0" 1188ms
+203.0.113.5 - - [15/Jan/2026:03:34:14 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 51831 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 818ms
+198.51.100.13 - - [15/Jan/2026:05:50:19 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 9521 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 300ms
+198.51.100.10 - - [15/Jan/2026:08:32:34 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 30916 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1253ms
+198.51.100.3 - - [15/Jan/2026:19:16:01 +0000] "PUT /api/v1/login HTTP/1.1" 400 2812 "-" "python-requests/2.28.0" 1777ms
+203.0.113.6 - - [15/Jan/2026:18:02:48 +0000] "GET /api/v1/payments HTTP/1.1" 400 38677 "-" "python-requests/2.28.0" 92ms
+203.0.113.12 - - [15/Jan/2026:18:27:40 +0000] "PUT /api/v1/cart HTTP/1.1" 403 29181 "-" "curl/7.88.1" 1147ms
+198.51.100.3 - - [15/Jan/2026:21:06:54 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 26961 "-" "python-requests/2.28.0" 1373ms
+203.0.113.11 - - [15/Jan/2026:17:02:29 +0000] "POST /static/css/main.css HTTP/1.1" 404 32671 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1188ms
+203.0.113.6 - - [15/Jan/2026:00:42:55 +0000] "POST /health HTTP/1.1" 200 7797 "-" "Googlebot/2.1" 1663ms
+198.51.100.6 - - [15/Jan/2026:19:48:31 +0000] "PUT /static/css/main.css HTTP/1.1" 200 12493 "-" "python-requests/2.28.0" 2131ms
+198.51.100.12 - - [15/Jan/2026:04:59:18 +0000] "PUT /api/v1/logout HTTP/1.1" 200 13540 "-" "Googlebot/2.1" 1101ms
+203.0.113.29 - - [15/Jan/2026:09:35:00 +0000] "PUT /api/v1/login HTTP/1.1" 200 41489 "-" "curl/7.88.1" 988ms
+198.51.100.7 - - [15/Jan/2026:20:53:09 +0000] "POST /api/v1/login HTTP/1.1" 200 7635 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1898ms
+198.51.100.3 - - [15/Jan/2026:15:15:29 +0000] "GET /api/v1/cart HTTP/1.1" 404 18119 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1709ms
+198.51.100.7 - - [15/Jan/2026:02:17:49 +0000] "GET /static/css/main.css HTTP/1.1" 200 39480 "-" "curl/7.88.1" 2089ms
+203.0.113.27 - - [15/Jan/2026:23:19:53 +0000] "POST /api/v1/users/profile HTTP/1.1" 204 17709 "-" "python-requests/2.28.0" 18ms
+198.51.100.9 - - [15/Jan/2026:11:21:35 +0000] "PUT /static/js/app.js HTTP/1.1" 200 29464 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2214ms
+198.51.100.6 - - [15/Jan/2026:12:14:54 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 200 12563 "-" "Googlebot/2.1" 986ms
+203.0.113.27 - - [15/Jan/2026:21:50:52 +0000] "GET /metrics HTTP/1.1" 429 31196 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1569ms
+198.51.100.13 - - [15/Jan/2026:10:55:06 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 8473 "-" "Googlebot/2.1" 2065ms
+203.0.113.29 - - [15/Jan/2026:20:09:04 +0000] "GET /api/v1/cart HTTP/1.1" 201 1205 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 598ms
+198.51.100.2 - - [15/Jan/2026:10:54:43 +0000] "GET /metrics HTTP/1.1" 401 45597 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1636ms
+198.51.100.6 - - [15/Jan/2026:01:39:04 +0000] "POST /metrics HTTP/1.1" 401 47301 "-" "Googlebot/2.1" 2006ms
+203.0.113.16 - - [15/Jan/2026:20:45:55 +0000] "GET /api/v1/orders HTTP/1.1" 429 6123 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1785ms
+203.0.113.7 - - [15/Jan/2026:10:50:03 +0000] "PUT /api/v1/products HTTP/1.1" 404 19825 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 126ms
+203.0.113.19 - - [15/Jan/2026:13:36:43 +0000] "POST /metrics HTTP/1.1" 201 9740 "-" "Googlebot/2.1" 1008ms
+203.0.113.12 - - [15/Jan/2026:21:15:31 +0000] "GET /api/v1/products HTTP/1.1" 200 40143 "-" "Googlebot/2.1" 1574ms
+198.51.100.9 - - [15/Jan/2026:08:42:00 +0000] "GET /api/v1/orders HTTP/1.1" 201 42005 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1048ms
+198.51.100.1 - - [15/Jan/2026:11:37:19 +0000] "GET /api/v1/payments HTTP/1.1" 304 10553 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 310ms
+198.51.100.12 - - [15/Jan/2026:12:54:30 +0000] "POST /api/v1/reports HTTP/1.1" 200 30139 "-" "curl/7.88.1" 1245ms
+203.0.113.7 - - [15/Jan/2026:22:18:01 +0000] "GET /static/css/main.css HTTP/1.1" 400 23724 "-" "python-requests/2.28.0" 2362ms
+198.51.100.14 - - [15/Jan/2026:23:31:53 +0000] "POST /health HTTP/1.1" 200 37288 "-" "Googlebot/2.1" 208ms
+203.0.113.19 - - [15/Jan/2026:08:43:48 +0000] "GET /favicon.ico HTTP/1.1" 200 14552 "-" "Googlebot/2.1" 786ms
+198.51.100.18 - - [15/Jan/2026:14:02:37 +0000] "GET /api/v1/payments HTTP/1.1" 200 41321 "-" "python-requests/2.28.0" 169ms
+203.0.113.24 - - [15/Jan/2026:06:08:50 +0000] "GET /api/v1/login HTTP/1.1" 200 21611 "-" "curl/7.88.1" 1709ms
+198.51.100.6 - - [15/Jan/2026:15:51:18 +0000] "POST /api/v1/cart HTTP/1.1" 204 18060 "-" "python-requests/2.28.0" 681ms
+198.51.100.19 - - [15/Jan/2026:07:55:43 +0000] "POST /api/v1/logout HTTP/1.1" 200 30892 "-" "curl/7.88.1" 316ms
+198.51.100.18 - - [15/Jan/2026:00:16:34 +0000] "POST /static/js/app.js HTTP/1.1" 304 24171 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 377ms
+203.0.113.8 - - [15/Jan/2026:12:52:40 +0000] "PUT /metrics HTTP/1.1" 404 49287 "-" "Googlebot/2.1" 1081ms
+203.0.113.24 - - [15/Jan/2026:17:20:58 +0000] "GET /api/v1/payments HTTP/1.1" 200 31098 "-" "Googlebot/2.1" 110ms
+198.51.100.11 - - [15/Jan/2026:20:26:07 +0000] "GET /api/v1/payments HTTP/1.1" 200 41841 "-" "python-requests/2.28.0" 1909ms
+203.0.113.9 - - [15/Jan/2026:07:56:34 +0000] "GET /api/v1/users HTTP/1.1" 200 32484 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 483ms
+203.0.113.9 - - [15/Jan/2026:18:47:46 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 200 44140 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2220ms
+203.0.113.10 - - [15/Jan/2026:01:44:23 +0000] "POST /api/v1/payments HTTP/1.1" 200 32269 "-" "python-requests/2.28.0" 1679ms
+203.0.113.14 - - [15/Jan/2026:17:57:41 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 200 23968 "-" "python-requests/2.28.0" 414ms
+203.0.113.23 - - [15/Jan/2026:02:42:13 +0000] "GET /static/css/main.css HTTP/1.1" 200 12639 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 508ms
+198.51.100.13 - - [15/Jan/2026:06:04:53 +0000] "GET /api/v1/users HTTP/1.1" 200 16162 "-" "Googlebot/2.1" 523ms
+198.51.100.7 - - [15/Jan/2026:19:00:17 +0000] "GET /favicon.ico HTTP/1.1" 200 15469 "-" "curl/7.88.1" 1353ms
+203.0.113.10 - - [15/Jan/2026:04:00:22 +0000] "GET /api/v1/cart HTTP/1.1" 200 11635 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 458ms
+203.0.113.16 - - [15/Jan/2026:23:26:33 +0000] "POST /api/v1/users HTTP/1.1" 200 17591 "-" "curl/7.88.1" 222ms
+203.0.113.8 - - [15/Jan/2026:18:06:28 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 201 51188 "-" "Googlebot/2.1" 1490ms
+198.51.100.4 - - [15/Jan/2026:14:41:01 +0000] "GET /favicon.ico HTTP/1.1" 200 47860 "-" "python-requests/2.28.0" 2143ms
+203.0.113.4 - - [15/Jan/2026:22:58:28 +0000] "PUT /static/js/app.js HTTP/1.1" 201 28136 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 450ms
+203.0.113.5 - - [15/Jan/2026:08:39:40 +0000] "GET /metrics HTTP/1.1" 400 9921 "-" "curl/7.88.1" 277ms
+198.51.100.9 - - [15/Jan/2026:16:38:27 +0000] "POST /static/css/main.css HTTP/1.1" 400 34970 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1215ms
+203.0.113.7 - - [15/Jan/2026:13:28:56 +0000] "GET /static/js/app.js HTTP/1.1" 403 42858 "-" "curl/7.88.1" 2266ms
+203.0.113.15 - - [15/Jan/2026:10:27:20 +0000] "POST /metrics HTTP/1.1" 201 26331 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1711ms
+198.51.100.14 - - [15/Jan/2026:02:53:05 +0000] "GET /metrics HTTP/1.1" 200 45211 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1950ms
+203.0.113.6 - - [15/Jan/2026:17:03:37 +0000] "POST /api/v1/login HTTP/1.1" 429 48617 "-" "curl/7.88.1" 1534ms
+198.51.100.7 - - [15/Jan/2026:23:03:18 +0000] "POST /api/v1/payments HTTP/1.1" 200 27122 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1456ms
+198.51.100.10 - - [15/Jan/2026:04:42:30 +0000] "GET /metrics HTTP/1.1" 200 38074 "-" "curl/7.88.1" 2086ms
+203.0.113.15 - - [15/Jan/2026:18:14:51 +0000] "GET /metrics HTTP/1.1" 304 24288 "-" "python-requests/2.28.0" 478ms
+203.0.113.28 - - [15/Jan/2026:05:17:44 +0000] "GET /favicon.ico HTTP/1.1" 403 45647 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1103ms
+203.0.113.20 - - [15/Jan/2026:21:25:04 +0000] "POST /metrics HTTP/1.1" 200 12088 "-" "Googlebot/2.1" 594ms
+203.0.113.10 - - [15/Jan/2026:13:29:21 +0000] "GET /api/v1/login HTTP/1.1" 429 34965 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 889ms
+203.0.113.11 - - [15/Jan/2026:02:56:03 +0000] "POST /health HTTP/1.1" 404 21458 "-" "Googlebot/2.1" 2332ms
+203.0.113.10 - - [15/Jan/2026:14:42:27 +0000] "GET /api/v1/logout HTTP/1.1" 401 3461 "-" "python-requests/2.28.0" 342ms
+198.51.100.3 - - [15/Jan/2026:11:27:07 +0000] "PUT /static/css/main.css HTTP/1.1" 200 14327 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2106ms
+203.0.113.19 - - [15/Jan/2026:12:38:03 +0000] "PUT /api/v1/cart HTTP/1.1" 403 20412 "-" "curl/7.88.1" 194ms
+203.0.113.1 - - [15/Jan/2026:09:20:07 +0000] "GET /health HTTP/1.1" 200 50489 "-" "python-requests/2.28.0" 570ms
+203.0.113.1 - - [15/Jan/2026:17:45:14 +0000] "PUT /api/v1/reports HTTP/1.1" 201 11714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 537ms
+198.51.100.4 - - [15/Jan/2026:00:29:58 +0000] "POST /api/v1/login HTTP/1.1" 201 48830 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 181ms
+203.0.113.5 - - [15/Jan/2026:09:07:25 +0000] "POST /favicon.ico HTTP/1.1" 201 37778 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1664ms
+203.0.113.2 - - [15/Jan/2026:13:54:06 +0000] "POST /api/v1/products HTTP/1.1" 401 30352 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1490ms
+203.0.113.16 - - [15/Jan/2026:09:47:21 +0000] "POST /favicon.ico HTTP/1.1" 201 34538 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 330ms
+203.0.113.15 - - [15/Jan/2026:16:32:12 +0000] "POST /api/v1/logout HTTP/1.1" 200 5205 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2098ms
+203.0.113.23 - - [15/Jan/2026:04:16:12 +0000] "POST /api/v1/reports HTTP/1.1" 401 9879 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 975ms
+203.0.113.12 - - [15/Jan/2026:20:31:29 +0000] "GET /api/v1/logout HTTP/1.1" 500 43159 "-" "curl/7.88.1" 316ms
+198.51.100.8 - - [15/Jan/2026:04:28:04 +0000] "PUT /api/v1/payments HTTP/1.1" 304 42339 "-" "python-requests/2.28.0" 1331ms
+198.51.100.2 - - [15/Jan/2026:16:04:19 +0000] "PUT /api/v1/payments HTTP/1.1" 200 18201 "-" "python-requests/2.28.0" 238ms
+198.51.100.1 - - [15/Jan/2026:20:55:54 +0000] "PUT /api/v1/users HTTP/1.1" 200 24365 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1183ms
+203.0.113.6 - - [15/Jan/2026:14:58:51 +0000] "DELETE /static/css/main.css HTTP/1.1" 201 38232 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2278ms
+198.51.100.8 - - [15/Jan/2026:01:28:06 +0000] "GET /metrics HTTP/1.1" 400 31370 "-" "curl/7.88.1" 2061ms
+203.0.113.22 - - [15/Jan/2026:22:28:28 +0000] "GET /api/v1/cart HTTP/1.1" 401 11508 "-" "curl/7.88.1" 168ms
+198.51.100.5 - - [15/Jan/2026:12:26:49 +0000] "DELETE /favicon.ico HTTP/1.1" 200 24048 "-" "python-requests/2.28.0" 1535ms
+203.0.113.22 - - [15/Jan/2026:10:06:35 +0000] "GET /api/v1/logout HTTP/1.1" 401 42621 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1378ms
+198.51.100.15 - - [15/Jan/2026:02:37:42 +0000] "POST /health HTTP/1.1" 200 47630 "-" "python-requests/2.28.0" 623ms
+203.0.113.10 - - [15/Jan/2026:19:45:05 +0000] "POST /health HTTP/1.1" 403 45975 "-" "curl/7.88.1" 1613ms
+203.0.113.20 - - [15/Jan/2026:20:42:27 +0000] "POST /api/v1/payments HTTP/1.1" 200 8575 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2164ms
+198.51.100.4 - - [15/Jan/2026:10:49:31 +0000] "POST /api/v1/users HTTP/1.1" 200 20441 "-" "curl/7.88.1" 746ms
+203.0.113.13 - - [15/Jan/2026:16:49:34 +0000] "GET /api/v1/products HTTP/1.1" 200 5257 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1219ms
+198.51.100.19 - - [15/Jan/2026:12:09:10 +0000] "DELETE /api/v1/users HTTP/1.1" 403 22270 "-" "Googlebot/2.1" 544ms
+203.0.113.12 - - [15/Jan/2026:21:46:15 +0000] "GET /api/v1/reports HTTP/1.1" 201 3063 "-" "python-requests/2.28.0" 1690ms
+203.0.113.29 - - [15/Jan/2026:17:15:19 +0000] "GET /api/v1/logout HTTP/1.1" 429 51567 "-" "curl/7.88.1" 1846ms
+198.51.100.2 - - [15/Jan/2026:09:49:24 +0000] "GET /metrics HTTP/1.1" 404 37583 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1812ms
+198.51.100.4 - - [15/Jan/2026:01:41:30 +0000] "DELETE /static/css/main.css HTTP/1.1" 200 13287 "-" "python-requests/2.28.0" 574ms
+203.0.113.24 - - [15/Jan/2026:05:17:28 +0000] "GET /api/v1/reports HTTP/1.1" 301 8370 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1175ms
+198.51.100.4 - - [15/Jan/2026:11:59:01 +0000] "GET /static/js/app.js HTTP/1.1" 201 6210 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 917ms
+203.0.113.27 - - [15/Jan/2026:02:23:14 +0000] "GET /static/css/main.css HTTP/1.1" 204 24707 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 973ms
+203.0.113.2 - - [15/Jan/2026:04:02:18 +0000] "POST /api/v1/users/profile HTTP/1.1" 200 47038 "-" "curl/7.88.1" 1381ms
+198.51.100.2 - - [15/Jan/2026:00:57:05 +0000] "GET /api/v1/logout HTTP/1.1" 404 30943 "-" "Googlebot/2.1" 1845ms
+203.0.113.2 - - [15/Jan/2026:03:49:18 +0000] "GET /api/v1/orders HTTP/1.1" 200 36166 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2169ms
+203.0.113.16 - - [15/Jan/2026:14:04:07 +0000] "GET /api/v1/login HTTP/1.1" 200 15826 "-" "Googlebot/2.1" 1727ms
+198.51.100.3 - - [15/Jan/2026:09:27:00 +0000] "GET /api/v1/payments HTTP/1.1" 301 37886 "-" "curl/7.88.1" 998ms
+198.51.100.11 - - [15/Jan/2026:16:23:04 +0000] "POST /api/v1/orders HTTP/1.1" 400 27500 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 775ms
+198.51.100.5 - - [15/Jan/2026:15:02:40 +0000] "DELETE /api/v1/logout HTTP/1.1" 204 36516 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 91ms
+203.0.113.25 - - [15/Jan/2026:11:15:46 +0000] "POST /health HTTP/1.1" 429 1264 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1470ms
+198.51.100.14 - - [15/Jan/2026:01:22:34 +0000] "GET /api/v1/logout HTTP/1.1" 400 48381 "-" "curl/7.88.1" 1369ms
+203.0.113.22 - - [15/Jan/2026:20:11:51 +0000] "GET /static/js/app.js HTTP/1.1" 502 45071 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1911ms
+203.0.113.9 - - [15/Jan/2026:06:02:50 +0000] "GET /api/v1/reports HTTP/1.1" 502 30194 "-" "python-requests/2.28.0" 159ms
+203.0.113.13 - - [15/Jan/2026:15:16:02 +0000] "GET /metrics HTTP/1.1" 200 33976 "-" "Googlebot/2.1" 1639ms
+198.51.100.13 - - [15/Jan/2026:08:07:51 +0000] "GET /health HTTP/1.1" 200 51373 "-" "python-requests/2.28.0" 203ms
+203.0.113.24 - - [15/Jan/2026:10:11:31 +0000] "POST /api/v1/users/profile HTTP/1.1" 201 48913 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1809ms
+198.51.100.16 - - [15/Jan/2026:02:27:38 +0000] "PUT /metrics HTTP/1.1" 301 17679 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 346ms
+203.0.113.12 - - [15/Jan/2026:09:28:38 +0000] "GET /metrics HTTP/1.1" 200 5447 "-" "python-requests/2.28.0" 1351ms
+198.51.100.17 - - [15/Jan/2026:01:46:55 +0000] "POST /api/v1/products HTTP/1.1" 404 29291 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1447ms
+203.0.113.23 - - [15/Jan/2026:11:32:51 +0000] "POST /health HTTP/1.1" 401 3959 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 315ms
+198.51.100.19 - - [15/Jan/2026:04:04:15 +0000] "GET /api/v1/users HTTP/1.1" 200 40017 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1802ms
+198.51.100.13 - - [15/Jan/2026:04:43:28 +0000] "POST /metrics HTTP/1.1" 200 37374 "-" "Googlebot/2.1" 140ms
+203.0.113.24 - - [15/Jan/2026:16:23:25 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 500 5238 "-" "curl/7.88.1" 2358ms
+203.0.113.21 - - [15/Jan/2026:16:24:58 +0000] "GET /api/v1/orders HTTP/1.1" 200 1898 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 770ms
+198.51.100.7 - - [15/Jan/2026:19:18:44 +0000] "GET /health HTTP/1.1" 502 17258 "-" "curl/7.88.1" 1835ms
+198.51.100.3 - - [15/Jan/2026:22:28:05 +0000] "GET /api/v1/login HTTP/1.1" 200 5053 "-" "curl/7.88.1" 1859ms
+198.51.100.15 - - [15/Jan/2026:17:18:57 +0000] "POST /api/v1/payments HTTP/1.1" 200 46700 "-" "Googlebot/2.1" 273ms
+203.0.113.20 - - [15/Jan/2026:16:14:07 +0000] "GET /api/v1/reports HTTP/1.1" 404 46089 "-" "python-requests/2.28.0" 721ms
+203.0.113.13 - - [15/Jan/2026:18:23:29 +0000] "GET /api/v1/orders HTTP/1.1" 204 1922 "-" "Googlebot/2.1" 1486ms
+198.51.100.7 - - [15/Jan/2026:22:46:30 +0000] "GET /favicon.ico HTTP/1.1" 200 4508 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1274ms
+198.51.100.5 - - [15/Jan/2026:10:41:04 +0000] "POST /api/v1/logout HTTP/1.1" 201 37876 "-" "curl/7.88.1" 310ms
+203.0.113.29 - - [15/Jan/2026:20:37:11 +0000] "PUT /api/v1/payments HTTP/1.1" 301 22778 "-" "Googlebot/2.1" 533ms
+203.0.113.9 - - [15/Jan/2026:09:10:10 +0000] "POST /api/v1/cart HTTP/1.1" 200 8337 "-" "curl/7.88.1" 2130ms
+203.0.113.21 - - [15/Jan/2026:06:40:35 +0000] "GET /metrics HTTP/1.1" 301 18815 "-" "python-requests/2.28.0" 331ms
+203.0.113.18 - - [15/Jan/2026:16:41:10 +0000] "GET /api/v1/payments HTTP/1.1" 200 40467 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2193ms
+198.51.100.9 - - [15/Jan/2026:01:52:55 +0000] "GET /api/v1/products HTTP/1.1" 403 41125 "-" "Googlebot/2.1" 1390ms
+203.0.113.2 - - [15/Jan/2026:20:13:49 +0000] "GET /api/v1/users HTTP/1.1" 401 50729 "-" "python-requests/2.28.0" 2370ms
+198.51.100.8 - - [15/Jan/2026:09:41:19 +0000] "POST /favicon.ico HTTP/1.1" 401 2184 "-" "Googlebot/2.1" 2047ms
+198.51.100.2 - - [15/Jan/2026:02:44:03 +0000] "GET /api/v1/logout HTTP/1.1" 404 26813 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1226ms
+203.0.113.11 - - [15/Jan/2026:19:09:20 +0000] "PUT /static/css/main.css HTTP/1.1" 204 30637 "-" "python-requests/2.28.0" 843ms
+198.51.100.17 - - [15/Jan/2026:16:35:06 +0000] "POST /api/v1/reports HTTP/1.1" 200 26330 "-" "python-requests/2.28.0" 543ms
+203.0.113.21 - - [15/Jan/2026:04:06:03 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 17729 "-" "curl/7.88.1" 1849ms
+203.0.113.19 - - [15/Jan/2026:10:59:36 +0000] "POST /static/js/app.js HTTP/1.1" 401 27602 "-" "curl/7.88.1" 1024ms
+198.51.100.18 - - [15/Jan/2026:14:31:56 +0000] "POST /api/v1/orders HTTP/1.1" 500 10642 "-" "Googlebot/2.1" 2048ms
+203.0.113.20 - - [15/Jan/2026:07:13:37 +0000] "PUT /api/v1/users HTTP/1.1" 200 25971 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2078ms
+203.0.113.23 - - [15/Jan/2026:17:00:54 +0000] "GET /api/v1/users HTTP/1.1" 200 32633 "-" "python-requests/2.28.0" 1935ms
+203.0.113.7 - - [15/Jan/2026:11:02:25 +0000] "POST /api/v1/products HTTP/1.1" 200 47877 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1506ms
+203.0.113.4 - - [15/Jan/2026:16:28:48 +0000] "GET /metrics HTTP/1.1" 304 19113 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 309ms
+198.51.100.7 - - [15/Jan/2026:03:25:23 +0000] "GET /static/js/app.js HTTP/1.1" 401 44790 "-" "curl/7.88.1" 494ms
+203.0.113.22 - - [15/Jan/2026:16:02:02 +0000] "POST /api/v1/logout HTTP/1.1" 200 13245 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2093ms
+203.0.113.3 - - [15/Jan/2026:04:38:57 +0000] "GET /api/v1/reports HTTP/1.1" 200 31247 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2135ms
+198.51.100.4 - - [15/Jan/2026:19:47:53 +0000] "GET /metrics HTTP/1.1" 401 21075 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 673ms
+203.0.113.20 - - [15/Jan/2026:09:30:52 +0000] "POST /api/v1/cart HTTP/1.1" 301 35087 "-" "Googlebot/2.1" 2014ms
+203.0.113.2 - - [15/Jan/2026:09:50:57 +0000] "POST /metrics HTTP/1.1" 404 7383 "-" "Googlebot/2.1" 1714ms
+198.51.100.18 - - [15/Jan/2026:07:46:03 +0000] "GET /favicon.ico HTTP/1.1" 204 17601 "-" "Googlebot/2.1" 2377ms
+198.51.100.9 - - [15/Jan/2026:21:15:02 +0000] "PUT /api/v1/products HTTP/1.1" 301 41423 "-" "curl/7.88.1" 1565ms
+198.51.100.8 - - [15/Jan/2026:04:26:44 +0000] "GET /api/v1/orders HTTP/1.1" 200 29103 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1292ms
+203.0.113.14 - - [15/Jan/2026:22:08:33 +0000] "POST /api/v1/cart HTTP/1.1" 502 40273 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1939ms
+203.0.113.14 - - [15/Jan/2026:05:29:58 +0000] "POST /api/v1/payments HTTP/1.1" 204 34637 "-" "python-requests/2.28.0" 1551ms
+198.51.100.6 - - [15/Jan/2026:15:12:15 +0000] "POST /api/v1/cart HTTP/1.1" 200 44493 "-" "Googlebot/2.1" 1090ms
+203.0.113.18 - - [15/Jan/2026:22:45:31 +0000] "GET /api/v1/orders HTTP/1.1" 200 50739 "-" "curl/7.88.1" 1191ms
+203.0.113.21 - - [15/Jan/2026:03:36:43 +0000] "PUT /metrics HTTP/1.1" 304 47494 "-" "python-requests/2.28.0" 1128ms
+198.51.100.6 - - [15/Jan/2026:01:18:45 +0000] "POST /api/v1/users/profile HTTP/1.1" 201 22818 "-" "python-requests/2.28.0" 607ms
+203.0.113.6 - - [15/Jan/2026:06:12:52 +0000] "POST /api/v1/users/profile HTTP/1.1" 201 43189 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1058ms
+198.51.100.6 - - [15/Jan/2026:03:39:47 +0000] "GET /api/v1/users/profile HTTP/1.1" 304 45824 "-" "curl/7.88.1" 1120ms
+198.51.100.9 - - [15/Jan/2026:20:14:03 +0000] "GET /api/v1/orders HTTP/1.1" 200 44098 "-" "curl/7.88.1" 2183ms
+203.0.113.7 - - [15/Jan/2026:00:35:59 +0000] "POST /metrics HTTP/1.1" 404 31159 "-" "curl/7.88.1" 419ms
+203.0.113.11 - - [15/Jan/2026:10:18:41 +0000] "POST /api/v1/payments HTTP/1.1" 204 31490 "-" "python-requests/2.28.0" 824ms
+203.0.113.4 - - [15/Jan/2026:05:26:56 +0000] "GET /api/v1/payments HTTP/1.1" 400 15418 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2199ms
+203.0.113.12 - - [15/Jan/2026:23:55:59 +0000] "GET /static/js/app.js HTTP/1.1" 201 51839 "-" "curl/7.88.1" 2037ms
+203.0.113.19 - - [15/Jan/2026:09:29:41 +0000] "GET /api/v1/users HTTP/1.1" 200 37421 "-" "python-requests/2.28.0" 447ms
+198.51.100.6 - - [15/Jan/2026:06:51:07 +0000] "DELETE /api/v1/search?q=laptop HTTP/1.1" 200 33244 "-" "python-requests/2.28.0" 1925ms
+203.0.113.22 - - [15/Jan/2026:00:47:21 +0000] "GET /api/v1/reports HTTP/1.1" 201 42686 "-" "curl/7.88.1" 1061ms
+203.0.113.19 - - [15/Jan/2026:16:20:05 +0000] "GET /api/v1/products HTTP/1.1" 401 42059 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1668ms
+203.0.113.26 - - [15/Jan/2026:00:16:24 +0000] "GET /api/v1/products HTTP/1.1" 200 31490 "-" "curl/7.88.1" 1333ms
+203.0.113.16 - - [15/Jan/2026:23:36:00 +0000] "PUT /api/v1/logout HTTP/1.1" 200 21802 "-" "Googlebot/2.1" 1244ms
+203.0.113.17 - - [15/Jan/2026:09:10:25 +0000] "POST /api/v1/reports HTTP/1.1" 200 4271 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 492ms
+198.51.100.15 - - [15/Jan/2026:20:58:18 +0000] "DELETE /api/v1/users/profile HTTP/1.1" 404 50652 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1281ms
+203.0.113.24 - - [15/Jan/2026:23:38:23 +0000] "GET /api/v1/orders HTTP/1.1" 200 31538 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 635ms
+203.0.113.27 - - [15/Jan/2026:21:48:38 +0000] "PUT /api/v1/logout HTTP/1.1" 304 43722 "-" "curl/7.88.1" 902ms
+203.0.113.6 - - [15/Jan/2026:18:07:03 +0000] "DELETE /api/v1/search?q=laptop HTTP/1.1" 301 46322 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1489ms
+198.51.100.7 - - [15/Jan/2026:10:54:33 +0000] "DELETE /api/v1/orders HTTP/1.1" 400 35370 "-" "curl/7.88.1" 621ms
+203.0.113.29 - - [15/Jan/2026:02:57:32 +0000] "GET /api/v1/payments HTTP/1.1" 200 47183 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2396ms
+203.0.113.29 - - [15/Jan/2026:18:03:35 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 33836 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1709ms
+198.51.100.1 - - [15/Jan/2026:23:13:37 +0000] "GET /api/v1/reports HTTP/1.1" 200 26148 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1050ms
+203.0.113.5 - - [15/Jan/2026:01:59:57 +0000] "GET /static/css/main.css HTTP/1.1" 200 46100 "-" "Googlebot/2.1" 269ms
+203.0.113.5 - - [15/Jan/2026:20:46:41 +0000] "PUT /api/v1/users HTTP/1.1" 200 26995 "-" "curl/7.88.1" 745ms
+203.0.113.27 - - [15/Jan/2026:02:43:42 +0000] "POST /api/v1/users/profile HTTP/1.1" 200 29595 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1554ms
+198.51.100.6 - - [15/Jan/2026:12:33:08 +0000] "GET /api/v1/payments HTTP/1.1" 200 7974 "-" "Googlebot/2.1" 739ms
+198.51.100.18 - - [15/Jan/2026:14:43:46 +0000] "GET /static/js/app.js HTTP/1.1" 200 49756 "-" "python-requests/2.28.0" 101ms
+198.51.100.6 - - [15/Jan/2026:11:09:17 +0000] "POST /api/v1/cart HTTP/1.1" 200 15251 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1021ms
+203.0.113.13 - - [15/Jan/2026:06:04:06 +0000] "GET /api/v1/users HTTP/1.1" 403 27675 "-" "curl/7.88.1" 72ms
+198.51.100.10 - - [15/Jan/2026:23:02:25 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 400 44241 "-" "curl/7.88.1" 207ms
+203.0.113.29 - - [15/Jan/2026:16:18:14 +0000] "GET /api/v1/cart HTTP/1.1" 200 49639 "-" "curl/7.88.1" 239ms
+198.51.100.18 - - [15/Jan/2026:09:56:09 +0000] "POST /favicon.ico HTTP/1.1" 400 50829 "-" "curl/7.88.1" 1321ms
+198.51.100.14 - - [15/Jan/2026:17:37:56 +0000] "DELETE /api/v1/orders HTTP/1.1" 201 19893 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1135ms
+198.51.100.19 - - [15/Jan/2026:01:22:41 +0000] "GET /api/v1/payments HTTP/1.1" 404 28197 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2284ms
+198.51.100.14 - - [15/Jan/2026:04:19:24 +0000] "POST /api/v1/logout HTTP/1.1" 301 21088 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1713ms
+203.0.113.12 - - [15/Jan/2026:01:35:26 +0000] "PUT /api/v1/orders HTTP/1.1" 200 19909 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 599ms
+203.0.113.27 - - [15/Jan/2026:10:41:05 +0000] "DELETE /api/v1/products HTTP/1.1" 200 16115 "-" "curl/7.88.1" 1052ms
+203.0.113.29 - - [15/Jan/2026:08:24:43 +0000] "POST /api/v1/login HTTP/1.1" 304 47686 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 788ms
+198.51.100.10 - - [15/Jan/2026:15:13:55 +0000] "GET /static/js/app.js HTTP/1.1" 200 12531 "-" "curl/7.88.1" 2297ms
+203.0.113.22 - - [15/Jan/2026:23:48:30 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 14081 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 786ms
+203.0.113.16 - - [15/Jan/2026:12:29:34 +0000] "GET /static/css/main.css HTTP/1.1" 200 36381 "-" "python-requests/2.28.0" 1325ms
+198.51.100.13 - - [15/Jan/2026:14:06:51 +0000] "POST /health HTTP/1.1" 200 23769 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2108ms
+198.51.100.18 - - [15/Jan/2026:13:02:36 +0000] "PUT /api/v1/logout HTTP/1.1" 200 13512 "-" "python-requests/2.28.0" 1526ms
+203.0.113.15 - - [15/Jan/2026:23:26:18 +0000] "GET /api/v1/users HTTP/1.1" 200 36461 "-" "Googlebot/2.1" 2400ms
+203.0.113.10 - - [15/Jan/2026:15:35:41 +0000] "GET /metrics HTTP/1.1" 200 25093 "-" "curl/7.88.1" 2341ms
+198.51.100.15 - - [15/Jan/2026:05:46:50 +0000] "POST /health HTTP/1.1" 500 32222 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2017ms
+203.0.113.23 - - [15/Jan/2026:17:41:03 +0000] "GET /api/v1/products HTTP/1.1" 404 36018 "-" "curl/7.88.1" 2008ms
+198.51.100.5 - - [15/Jan/2026:13:08:53 +0000] "GET /static/js/app.js HTTP/1.1" 200 43992 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 206ms
+198.51.100.12 - - [15/Jan/2026:16:29:23 +0000] "GET /api/v1/login HTTP/1.1" 404 10097 "-" "curl/7.88.1" 45ms
+203.0.113.4 - - [15/Jan/2026:17:26:00 +0000] "PUT /api/v1/payments HTTP/1.1" 204 1230 "-" "Googlebot/2.1" 35ms
+203.0.113.2 - - [15/Jan/2026:16:52:44 +0000] "DELETE /api/v1/reports HTTP/1.1" 200 35310 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1182ms
+198.51.100.15 - - [15/Jan/2026:04:15:12 +0000] "POST /api/v1/logout HTTP/1.1" 200 7213 "-" "Googlebot/2.1" 402ms
+198.51.100.11 - - [15/Jan/2026:11:25:29 +0000] "DELETE /health HTTP/1.1" 200 17719 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1633ms
+198.51.100.8 - - [15/Jan/2026:02:25:24 +0000] "GET /api/v1/reports HTTP/1.1" 200 19859 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 338ms
+203.0.113.25 - - [15/Jan/2026:15:54:27 +0000] "PUT /api/v1/users HTTP/1.1" 401 819 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 709ms
+198.51.100.13 - - [15/Jan/2026:06:57:55 +0000] "POST /favicon.ico HTTP/1.1" 200 34813 "-" "curl/7.88.1" 182ms
+198.51.100.16 - - [15/Jan/2026:18:42:02 +0000] "PUT /health HTTP/1.1" 200 5072 "-" "Googlebot/2.1" 1156ms
+203.0.113.12 - - [15/Jan/2026:02:19:10 +0000] "POST /api/v1/users HTTP/1.1" 200 38671 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 598ms
+198.51.100.8 - - [15/Jan/2026:12:48:47 +0000] "GET /favicon.ico HTTP/1.1" 200 44570 "-" "python-requests/2.28.0" 2222ms
+203.0.113.9 - - [15/Jan/2026:13:14:53 +0000] "GET /api/v1/cart HTTP/1.1" 429 22866 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 227ms
+203.0.113.5 - - [15/Jan/2026:00:40:17 +0000] "POST /favicon.ico HTTP/1.1" 500 40430 "-" "python-requests/2.28.0" 1632ms
+203.0.113.29 - - [15/Jan/2026:05:43:37 +0000] "PUT /api/v1/orders HTTP/1.1" 200 36443 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1545ms
+198.51.100.14 - - [15/Jan/2026:22:04:05 +0000] "POST /api/v1/login HTTP/1.1" 500 40741 "-" "curl/7.88.1" 1217ms
+203.0.113.18 - - [15/Jan/2026:10:23:06 +0000] "GET /static/css/main.css HTTP/1.1" 404 51573 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 639ms
+203.0.113.6 - - [15/Jan/2026:04:05:11 +0000] "GET /health HTTP/1.1" 201 23787 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1112ms
+203.0.113.28 - - [15/Jan/2026:00:05:22 +0000] "PUT /api/v1/cart HTTP/1.1" 304 33783 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1679ms
+198.51.100.7 - - [15/Jan/2026:00:18:26 +0000] "GET /favicon.ico HTTP/1.1" 400 51608 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1336ms
+203.0.113.25 - - [15/Jan/2026:05:43:24 +0000] "GET /api/v1/reports HTTP/1.1" 304 16108 "-" "Googlebot/2.1" 2350ms
+203.0.113.11 - - [15/Jan/2026:02:10:27 +0000] "GET /health HTTP/1.1" 200 17790 "-" "curl/7.88.1" 2027ms
+203.0.113.18 - - [15/Jan/2026:08:15:46 +0000] "POST /health HTTP/1.1" 204 51492 "-" "python-requests/2.28.0" 323ms
+198.51.100.12 - - [15/Jan/2026:04:19:00 +0000] "PUT /favicon.ico HTTP/1.1" 401 13015 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1883ms
+203.0.113.26 - - [15/Jan/2026:10:27:52 +0000] "POST /static/js/app.js HTTP/1.1" 401 25096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1357ms
+198.51.100.13 - - [15/Jan/2026:10:11:25 +0000] "GET /health HTTP/1.1" 200 39732 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 830ms
+203.0.113.21 - - [15/Jan/2026:07:20:24 +0000] "GET /api/v1/reports HTTP/1.1" 404 41677 "-" "Googlebot/2.1" 2019ms
+203.0.113.18 - - [15/Jan/2026:17:11:43 +0000] "POST /metrics HTTP/1.1" 200 37152 "-" "Googlebot/2.1" 826ms
+198.51.100.7 - - [15/Jan/2026:09:53:44 +0000] "GET /api/v1/reports HTTP/1.1" 201 46623 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 866ms
+203.0.113.5 - - [15/Jan/2026:08:42:09 +0000] "POST /api/v1/payments HTTP/1.1" 204 9321 "-" "curl/7.88.1" 1248ms
+198.51.100.17 - - [15/Jan/2026:15:37:25 +0000] "POST /api/v1/logout HTTP/1.1" 200 5047 "-" "Googlebot/2.1" 1847ms
+198.51.100.6 - - [15/Jan/2026:11:44:57 +0000] "DELETE /api/v1/users/profile HTTP/1.1" 404 27613 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2234ms
+198.51.100.6 - - [15/Jan/2026:20:39:02 +0000] "GET /api/v1/login HTTP/1.1" 500 16468 "-" "curl/7.88.1" 1462ms
+198.51.100.8 - - [15/Jan/2026:03:16:14 +0000] "POST /api/v1/logout HTTP/1.1" 200 28410 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 441ms
+198.51.100.4 - - [15/Jan/2026:14:23:25 +0000] "DELETE /api/v1/cart HTTP/1.1" 400 45266 "-" "curl/7.88.1" 2364ms
+198.51.100.1 - - [15/Jan/2026:09:26:58 +0000] "DELETE /api/v1/products HTTP/1.1" 200 1809 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1985ms
+203.0.113.6 - - [15/Jan/2026:10:29:50 +0000] "GET /static/js/app.js HTTP/1.1" 404 9484 "-" "python-requests/2.28.0" 1434ms
+203.0.113.14 - - [15/Jan/2026:23:44:28 +0000] "DELETE /api/v1/search?q=laptop HTTP/1.1" 200 31405 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 407ms
+203.0.113.21 - - [15/Jan/2026:10:41:06 +0000] "GET /health HTTP/1.1" 200 46781 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 479ms
+198.51.100.15 - - [15/Jan/2026:17:10:21 +0000] "GET /api/v1/users/profile HTTP/1.1" 429 16185 "-" "curl/7.88.1" 2121ms
+198.51.100.7 - - [15/Jan/2026:20:42:27 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 200 26745 "-" "curl/7.88.1" 763ms
+203.0.113.26 - - [15/Jan/2026:13:24:00 +0000] "GET /api/v1/reports HTTP/1.1" 401 13131 "-" "Googlebot/2.1" 1849ms
+198.51.100.17 - - [15/Jan/2026:03:51:55 +0000] "GET /api/v1/orders HTTP/1.1" 200 49504 "-" "Googlebot/2.1" 264ms
+198.51.100.6 - - [15/Jan/2026:08:42:55 +0000] "GET /metrics HTTP/1.1" 200 13115 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1882ms
+198.51.100.3 - - [15/Jan/2026:12:37:07 +0000] "DELETE /api/v1/payments HTTP/1.1" 200 39323 "-" "Googlebot/2.1" 1599ms
+203.0.113.23 - - [15/Jan/2026:19:37:05 +0000] "POST /static/js/app.js HTTP/1.1" 201 40659 "-" "python-requests/2.28.0" 714ms
+198.51.100.15 - - [15/Jan/2026:05:23:44 +0000] "GET /metrics HTTP/1.1" 200 15835 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1258ms
+203.0.113.10 - - [15/Jan/2026:12:27:11 +0000] "DELETE /static/css/main.css HTTP/1.1" 201 39287 "-" "Googlebot/2.1" 572ms
+198.51.100.3 - - [15/Jan/2026:05:20:53 +0000] "GET /api/v1/cart HTTP/1.1" 200 32289 "-" "curl/7.88.1" 1191ms
+203.0.113.29 - - [15/Jan/2026:06:52:24 +0000] "GET /static/js/app.js HTTP/1.1" 200 828 "-" "curl/7.88.1" 1992ms
+198.51.100.7 - - [15/Jan/2026:22:53:28 +0000] "DELETE /api/v1/payments HTTP/1.1" 204 27013 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2022ms
+198.51.100.3 - - [15/Jan/2026:01:17:14 +0000] "GET /api/v1/login HTTP/1.1" 304 2222 "-" "python-requests/2.28.0" 911ms
+198.51.100.6 - - [15/Jan/2026:17:32:07 +0000] "GET /api/v1/products HTTP/1.1" 502 30171 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2324ms
+198.51.100.8 - - [15/Jan/2026:01:48:46 +0000] "GET /health HTTP/1.1" 502 35793 "-" "Googlebot/2.1" 1510ms
+203.0.113.29 - - [15/Jan/2026:01:28:16 +0000] "GET /static/css/main.css HTTP/1.1" 200 48433 "-" "python-requests/2.28.0" 1021ms
+203.0.113.23 - - [15/Jan/2026:23:37:44 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 51031 "-" "curl/7.88.1" 978ms
+203.0.113.23 - - [15/Jan/2026:01:36:22 +0000] "POST /api/v1/products HTTP/1.1" 401 9324 "-" "curl/7.88.1" 854ms
+198.51.100.6 - - [15/Jan/2026:09:36:17 +0000] "GET /favicon.ico HTTP/1.1" 304 11234 "-" "python-requests/2.28.0" 1333ms
+198.51.100.4 - - [15/Jan/2026:08:55:41 +0000] "GET /api/v1/products HTTP/1.1" 500 51691 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1693ms
+203.0.113.9 - - [15/Jan/2026:21:25:31 +0000] "GET /api/v1/orders HTTP/1.1" 200 46821 "-" "curl/7.88.1" 1327ms
+203.0.113.10 - - [15/Jan/2026:20:50:56 +0000] "GET /api/v1/payments HTTP/1.1" 201 24787 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1859ms
+203.0.113.6 - - [15/Jan/2026:15:20:37 +0000] "POST /api/v1/cart HTTP/1.1" 429 18433 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1519ms
+203.0.113.1 - - [15/Jan/2026:17:25:13 +0000] "GET /api/v1/reports HTTP/1.1" 201 41804 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1475ms
+203.0.113.28 - - [15/Jan/2026:17:36:08 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 21359 "-" "python-requests/2.28.0" 1169ms
+198.51.100.8 - - [15/Jan/2026:03:40:50 +0000] "PUT /api/v1/logout HTTP/1.1" 200 44931 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 206ms
+198.51.100.1 - - [15/Jan/2026:13:12:44 +0000] "GET /api/v1/login HTTP/1.1" 200 29120 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1877ms
+203.0.113.9 - - [15/Jan/2026:02:23:42 +0000] "GET /api/v1/products HTTP/1.1" 200 6317 "-" "python-requests/2.28.0" 1484ms
+198.51.100.13 - - [15/Jan/2026:13:41:05 +0000] "GET /api/v1/users HTTP/1.1" 201 41199 "-" "curl/7.88.1" 1259ms
+198.51.100.17 - - [15/Jan/2026:18:14:33 +0000] "GET /api/v1/users HTTP/1.1" 200 31448 "-" "curl/7.88.1" 327ms
+198.51.100.15 - - [15/Jan/2026:13:44:08 +0000] "PUT /api/v1/users HTTP/1.1" 200 45786 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1415ms
+198.51.100.2 - - [15/Jan/2026:10:23:56 +0000] "GET /api/v1/orders HTTP/1.1" 200 6054 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 427ms
+203.0.113.20 - - [15/Jan/2026:02:33:36 +0000] "GET /static/css/main.css HTTP/1.1" 502 49558 "-" "curl/7.88.1" 553ms
+203.0.113.1 - - [15/Jan/2026:13:39:43 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 47545 "-" "curl/7.88.1" 880ms
+203.0.113.29 - - [15/Jan/2026:23:24:22 +0000] "GET /api/v1/login HTTP/1.1" 200 9375 "-" "Googlebot/2.1" 512ms
+203.0.113.28 - - [15/Jan/2026:07:35:38 +0000] "POST /api/v1/logout HTTP/1.1" 200 16438 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1142ms
+198.51.100.10 - - [15/Jan/2026:16:38:32 +0000] "GET /api/v1/logout HTTP/1.1" 404 1957 "-" "curl/7.88.1" 1243ms
+203.0.113.13 - - [15/Jan/2026:12:07:15 +0000] "POST /health HTTP/1.1" 401 3776 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 988ms
+198.51.100.3 - - [15/Jan/2026:12:55:53 +0000] "GET /api/v1/cart HTTP/1.1" 200 23864 "-" "curl/7.88.1" 1304ms
+198.51.100.8 - - [15/Jan/2026:02:01:37 +0000] "POST /metrics HTTP/1.1" 304 44957 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 715ms
+203.0.113.5 - - [15/Jan/2026:16:18:40 +0000] "GET /health HTTP/1.1" 200 2810 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 255ms
+198.51.100.17 - - [15/Jan/2026:20:34:34 +0000] "DELETE /api/v1/logout HTTP/1.1" 201 27959 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1655ms
+198.51.100.11 - - [15/Jan/2026:06:51:09 +0000] "GET /health HTTP/1.1" 200 20510 "-" "Googlebot/2.1" 331ms
+198.51.100.6 - - [15/Jan/2026:22:27:46 +0000] "POST /static/css/main.css HTTP/1.1" 400 41769 "-" "python-requests/2.28.0" 278ms
+203.0.113.16 - - [15/Jan/2026:19:38:03 +0000] "GET /api/v1/orders HTTP/1.1" 200 28674 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 483ms
+203.0.113.20 - - [15/Jan/2026:05:31:22 +0000] "GET /api/v1/login HTTP/1.1" 200 46592 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 570ms
+198.51.100.5 - - [15/Jan/2026:04:47:49 +0000] "DELETE /api/v1/logout HTTP/1.1" 404 17190 "-" "python-requests/2.28.0" 691ms
+203.0.113.18 - - [15/Jan/2026:16:04:16 +0000] "GET /api/v1/logout HTTP/1.1" 200 22155 "-" "python-requests/2.28.0" 1766ms
+198.51.100.17 - - [15/Jan/2026:15:54:36 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 201 33674 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1483ms
+203.0.113.11 - - [15/Jan/2026:21:46:07 +0000] "POST /api/v1/products HTTP/1.1" 200 50880 "-" "Googlebot/2.1" 429ms
+203.0.113.15 - - [15/Jan/2026:15:23:24 +0000] "DELETE /api/v1/users HTTP/1.1" 200 1005 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1009ms
+203.0.113.10 - - [15/Jan/2026:10:15:26 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 36432 "-" "curl/7.88.1" 1725ms
+198.51.100.18 - - [15/Jan/2026:16:43:57 +0000] "POST /health HTTP/1.1" 200 37656 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1535ms
+203.0.113.4 - - [15/Jan/2026:14:55:18 +0000] "GET /api/v1/orders HTTP/1.1" 301 3209 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1650ms
+203.0.113.20 - - [15/Jan/2026:06:18:36 +0000] "POST /api/v1/login HTTP/1.1" 304 30133 "-" "python-requests/2.28.0" 40ms
+203.0.113.20 - - [15/Jan/2026:23:57:34 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 38977 "-" "curl/7.88.1" 2028ms
+203.0.113.16 - - [15/Jan/2026:11:40:53 +0000] "GET /api/v1/users HTTP/1.1" 201 1766 "-" "Googlebot/2.1" 962ms
+198.51.100.16 - - [15/Jan/2026:03:13:33 +0000] "GET /metrics HTTP/1.1" 200 49937 "-" "python-requests/2.28.0" 1549ms
+203.0.113.16 - - [15/Jan/2026:01:58:14 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 200 9530 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1154ms
+198.51.100.5 - - [15/Jan/2026:03:32:08 +0000] "POST /api/v1/reports HTTP/1.1" 200 30245 "-" "Googlebot/2.1" 355ms
+198.51.100.12 - - [15/Jan/2026:21:08:15 +0000] "POST /api/v1/login HTTP/1.1" 400 37412 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 263ms
+203.0.113.19 - - [15/Jan/2026:14:17:14 +0000] "GET /static/js/app.js HTTP/1.1" 200 25952 "-" "python-requests/2.28.0" 1344ms
+203.0.113.5 - - [15/Jan/2026:03:10:28 +0000] "GET /api/v1/products HTTP/1.1" 502 50672 "-" "curl/7.88.1" 454ms
+198.51.100.1 - - [15/Jan/2026:14:19:29 +0000] "POST /static/css/main.css HTTP/1.1" 200 35322 "-" "curl/7.88.1" 1475ms
+203.0.113.17 - - [15/Jan/2026:01:13:53 +0000] "GET /api/v1/login HTTP/1.1" 200 45161 "-" "Googlebot/2.1" 1254ms
+203.0.113.21 - - [15/Jan/2026:16:03:43 +0000] "GET /api/v1/login HTTP/1.1" 404 16467 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1465ms
+203.0.113.20 - - [15/Jan/2026:17:47:35 +0000] "GET /static/js/app.js HTTP/1.1" 200 2236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1664ms
+203.0.113.16 - - [15/Jan/2026:01:53:49 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 9361 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 505ms
+203.0.113.15 - - [15/Jan/2026:18:16:58 +0000] "GET /api/v1/orders HTTP/1.1" 201 24595 "-" "Googlebot/2.1" 352ms
+203.0.113.5 - - [15/Jan/2026:02:57:54 +0000] "GET /api/v1/login HTTP/1.1" 200 42535 "-" "curl/7.88.1" 1824ms
+203.0.113.22 - - [15/Jan/2026:13:52:46 +0000] "GET /api/v1/users HTTP/1.1" 201 3518 "-" "Googlebot/2.1" 696ms
+203.0.113.26 - - [15/Jan/2026:11:13:58 +0000] "PUT /api/v1/users HTTP/1.1" 200 44975 "-" "curl/7.88.1" 1755ms
+203.0.113.12 - - [15/Jan/2026:19:39:15 +0000] "GET /health HTTP/1.1" 201 9940 "-" "Googlebot/2.1" 149ms
+198.51.100.13 - - [15/Jan/2026:02:17:24 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 201 36289 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1970ms
+203.0.113.9 - - [15/Jan/2026:00:24:50 +0000] "POST /api/v1/orders HTTP/1.1" 401 34659 "-" "Googlebot/2.1" 1028ms
+198.51.100.17 - - [15/Jan/2026:18:32:20 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 304 51412 "-" "python-requests/2.28.0" 1993ms
+203.0.113.25 - - [15/Jan/2026:08:03:51 +0000] "GET /api/v1/products HTTP/1.1" 200 21097 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 905ms
+198.51.100.2 - - [15/Jan/2026:03:15:42 +0000] "DELETE /metrics HTTP/1.1" 500 38472 "-" "curl/7.88.1" 961ms
+203.0.113.16 - - [15/Jan/2026:12:22:59 +0000] "GET /api/v1/cart HTTP/1.1" 429 3864 "-" "Googlebot/2.1" 906ms
+203.0.113.12 - - [15/Jan/2026:00:45:44 +0000] "GET /api/v1/orders HTTP/1.1" 400 21040 "-" "Googlebot/2.1" 1477ms
+203.0.113.23 - - [15/Jan/2026:05:31:02 +0000] "GET /favicon.ico HTTP/1.1" 200 32458 "-" "python-requests/2.28.0" 2228ms
+203.0.113.6 - - [15/Jan/2026:15:00:21 +0000] "GET /api/v1/orders HTTP/1.1" 400 14539 "-" "Googlebot/2.1" 89ms
+198.51.100.11 - - [15/Jan/2026:01:01:09 +0000] "GET /api/v1/logout HTTP/1.1" 200 22531 "-" "python-requests/2.28.0" 734ms
+198.51.100.9 - - [15/Jan/2026:11:45:42 +0000] "GET /api/v1/logout HTTP/1.1" 200 34691 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1502ms
+203.0.113.26 - - [15/Jan/2026:23:27:50 +0000] "GET /metrics HTTP/1.1" 200 21342 "-" "curl/7.88.1" 566ms
+198.51.100.12 - - [15/Jan/2026:11:14:42 +0000] "PUT /api/v1/payments HTTP/1.1" 200 11616 "-" "Googlebot/2.1" 2309ms
+198.51.100.9 - - [15/Jan/2026:05:46:00 +0000] "GET /static/css/main.css HTTP/1.1" 200 48303 "-" "curl/7.88.1" 1214ms
+198.51.100.16 - - [15/Jan/2026:19:20:58 +0000] "POST /static/js/app.js HTTP/1.1" 500 37390 "-" "curl/7.88.1" 140ms
+198.51.100.11 - - [15/Jan/2026:10:47:04 +0000] "GET /api/v1/payments HTTP/1.1" 304 7022 "-" "curl/7.88.1" 2040ms
+203.0.113.16 - - [15/Jan/2026:14:00:16 +0000] "POST /metrics HTTP/1.1" 200 41893 "-" "python-requests/2.28.0" 371ms
+203.0.113.14 - - [15/Jan/2026:23:00:03 +0000] "GET /api/v1/reports HTTP/1.1" 200 23169 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1059ms
+203.0.113.25 - - [15/Jan/2026:12:22:34 +0000] "PUT /api/v1/reports HTTP/1.1" 201 11101 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1703ms
+203.0.113.25 - - [15/Jan/2026:05:28:04 +0000] "GET /static/js/app.js HTTP/1.1" 204 51890 "-" "curl/7.88.1" 2375ms
+203.0.113.3 - - [15/Jan/2026:10:10:56 +0000] "GET /api/v1/users HTTP/1.1" 200 17313 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 436ms
+203.0.113.25 - - [15/Jan/2026:19:39:57 +0000] "GET /api/v1/reports HTTP/1.1" 200 36051 "-" "python-requests/2.28.0" 389ms
+198.51.100.2 - - [15/Jan/2026:01:06:21 +0000] "GET /static/css/main.css HTTP/1.1" 403 11013 "-" "curl/7.88.1" 1786ms
+203.0.113.14 - - [15/Jan/2026:21:18:19 +0000] "GET /static/css/main.css HTTP/1.1" 404 36514 "-" "python-requests/2.28.0" 2220ms
+203.0.113.16 - - [15/Jan/2026:04:03:23 +0000] "GET /api/v1/users HTTP/1.1" 201 37671 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2259ms
+203.0.113.1 - - [15/Jan/2026:03:01:13 +0000] "POST /api/v1/login HTTP/1.1" 200 43586 "-" "curl/7.88.1" 1975ms
+203.0.113.11 - - [15/Jan/2026:15:31:57 +0000] "GET /api/v1/login HTTP/1.1" 204 7769 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1271ms
+198.51.100.14 - - [15/Jan/2026:11:56:24 +0000] "GET /api/v1/login HTTP/1.1" 401 35859 "-" "curl/7.88.1" 1595ms
+203.0.113.24 - - [15/Jan/2026:08:14:53 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 17455 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1809ms
+203.0.113.18 - - [15/Jan/2026:21:22:51 +0000] "GET /api/v1/products HTTP/1.1" 500 45843 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 404ms
+198.51.100.6 - - [15/Jan/2026:12:52:33 +0000] "POST /api/v1/logout HTTP/1.1" 400 15110 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2275ms
+203.0.113.27 - - [15/Jan/2026:12:57:54 +0000] "PUT /favicon.ico HTTP/1.1" 200 31412 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1232ms
+198.51.100.17 - - [15/Jan/2026:04:07:48 +0000] "GET /api/v1/cart HTTP/1.1" 400 34070 "-" "Googlebot/2.1" 2348ms
+203.0.113.29 - - [15/Jan/2026:13:05:43 +0000] "GET /api/v1/products HTTP/1.1" 200 12830 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 524ms
+203.0.113.28 - - [15/Jan/2026:23:58:51 +0000] "GET /static/js/app.js HTTP/1.1" 401 9891 "-" "python-requests/2.28.0" 1064ms
+203.0.113.5 - - [15/Jan/2026:08:33:29 +0000] "GET /static/css/main.css HTTP/1.1" 304 26241 "-" "python-requests/2.28.0" 2269ms
+203.0.113.1 - - [15/Jan/2026:04:36:37 +0000] "DELETE /api/v1/logout HTTP/1.1" 201 7574 "-" "curl/7.88.1" 1705ms
+198.51.100.9 - - [15/Jan/2026:17:56:22 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 37076 "-" "python-requests/2.28.0" 421ms
+203.0.113.27 - - [15/Jan/2026:15:02:11 +0000] "GET /static/css/main.css HTTP/1.1" 403 32023 "-" "Googlebot/2.1" 2351ms
+203.0.113.18 - - [15/Jan/2026:12:56:56 +0000] "POST /api/v1/products HTTP/1.1" 401 40088 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1653ms
+203.0.113.22 - - [15/Jan/2026:00:21:52 +0000] "GET /api/v1/users HTTP/1.1" 429 31343 "-" "python-requests/2.28.0" 1108ms
+203.0.113.20 - - [15/Jan/2026:04:19:47 +0000] "GET /health HTTP/1.1" 204 45825 "-" "curl/7.88.1" 410ms
+203.0.113.29 - - [15/Jan/2026:14:13:58 +0000] "POST /health HTTP/1.1" 404 27513 "-" "curl/7.88.1" 373ms
+203.0.113.27 - - [15/Jan/2026:05:04:19 +0000] "PUT /api/v1/logout HTTP/1.1" 301 24704 "-" "Googlebot/2.1" 238ms
+198.51.100.17 - - [15/Jan/2026:00:11:12 +0000] "DELETE /static/css/main.css HTTP/1.1" 200 51351 "-" "Googlebot/2.1" 2155ms
+203.0.113.13 - - [15/Jan/2026:22:12:17 +0000] "GET /api/v1/orders HTTP/1.1" 200 30113 "-" "python-requests/2.28.0" 215ms
+203.0.113.24 - - [15/Jan/2026:07:23:31 +0000] "PUT /api/v1/cart HTTP/1.1" 201 41842 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 515ms
+198.51.100.10 - - [15/Jan/2026:11:10:53 +0000] "PUT /api/v1/products HTTP/1.1" 204 38661 "-" "python-requests/2.28.0" 2266ms
+203.0.113.17 - - [15/Jan/2026:18:49:13 +0000] "GET /health HTTP/1.1" 200 25533 "-" "curl/7.88.1" 211ms
+203.0.113.15 - - [15/Jan/2026:00:55:49 +0000] "GET /api/v1/payments HTTP/1.1" 200 17834 "-" "Googlebot/2.1" 1685ms
+198.51.100.15 - - [15/Jan/2026:00:14:16 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 42626 "-" "Googlebot/2.1" 717ms
+198.51.100.10 - - [15/Jan/2026:12:54:22 +0000] "GET /api/v1/reports HTTP/1.1" 404 42322 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1135ms
+198.51.100.1 - - [15/Jan/2026:12:37:06 +0000] "GET /api/v1/orders HTTP/1.1" 201 20001 "-" "Googlebot/2.1" 2140ms
+203.0.113.1 - - [15/Jan/2026:21:06:30 +0000] "DELETE /api/v1/payments HTTP/1.1" 200 36995 "-" "python-requests/2.28.0" 1165ms
+203.0.113.5 - - [15/Jan/2026:20:45:57 +0000] "POST /health HTTP/1.1" 401 21508 "-" "python-requests/2.28.0" 1142ms
+198.51.100.13 - - [15/Jan/2026:19:25:42 +0000] "GET /api/v1/orders HTTP/1.1" 200 34101 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 992ms
+203.0.113.21 - - [15/Jan/2026:08:58:26 +0000] "GET /api/v1/reports HTTP/1.1" 200 43152 "-" "python-requests/2.28.0" 2045ms
+203.0.113.26 - - [15/Jan/2026:10:46:45 +0000] "POST /api/v1/reports HTTP/1.1" 200 38409 "-" "curl/7.88.1" 2351ms
+203.0.113.15 - - [15/Jan/2026:05:53:42 +0000] "PUT /api/v1/users/profile HTTP/1.1" 403 23694 "-" "python-requests/2.28.0" 2085ms
+198.51.100.7 - - [15/Jan/2026:23:51:35 +0000] "GET /health HTTP/1.1" 200 31053 "-" "python-requests/2.28.0" 532ms
+203.0.113.12 - - [15/Jan/2026:23:55:19 +0000] "POST /api/v1/payments HTTP/1.1" 200 14765 "-" "curl/7.88.1" 1463ms
+203.0.113.27 - - [15/Jan/2026:03:30:03 +0000] "POST /metrics HTTP/1.1" 200 38575 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1212ms
+198.51.100.12 - - [15/Jan/2026:16:19:26 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 32999 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 498ms
+203.0.113.4 - - [15/Jan/2026:14:09:20 +0000] "GET /api/v1/products HTTP/1.1" 200 22657 "-" "Googlebot/2.1" 1684ms
+198.51.100.17 - - [15/Jan/2026:10:40:03 +0000] "GET /api/v1/logout HTTP/1.1" 200 32154 "-" "curl/7.88.1" 1370ms
+203.0.113.1 - - [15/Jan/2026:05:31:50 +0000] "PUT /health HTTP/1.1" 200 50085 "-" "Googlebot/2.1" 698ms
+203.0.113.6 - - [15/Jan/2026:13:30:24 +0000] "GET /favicon.ico HTTP/1.1" 201 41716 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1766ms
+203.0.113.1 - - [15/Jan/2026:10:48:53 +0000] "GET /api/v1/cart HTTP/1.1" 200 48084 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1536ms
+198.51.100.5 - - [15/Jan/2026:22:56:22 +0000] "GET /api/v1/users HTTP/1.1" 404 470 "-" "curl/7.88.1" 1027ms
+203.0.113.20 - - [15/Jan/2026:02:52:02 +0000] "GET /api/v1/login HTTP/1.1" 200 33186 "-" "curl/7.88.1" 1261ms
+203.0.113.20 - - [15/Jan/2026:13:56:43 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 404 34297 "-" "python-requests/2.28.0" 2154ms
+203.0.113.9 - - [15/Jan/2026:12:01:14 +0000] "POST /api/v1/users/profile HTTP/1.1" 204 23743 "-" "curl/7.88.1" 779ms
+203.0.113.15 - - [15/Jan/2026:03:23:45 +0000] "GET /api/v1/orders HTTP/1.1" 404 1636 "-" "curl/7.88.1" 2074ms
+198.51.100.13 - - [15/Jan/2026:01:38:03 +0000] "GET /static/css/main.css HTTP/1.1" 401 16963 "-" "Googlebot/2.1" 2198ms
+198.51.100.14 - - [15/Jan/2026:14:24:07 +0000] "GET /api/v1/payments HTTP/1.1" 200 3361 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 482ms
+198.51.100.7 - - [15/Jan/2026:09:26:42 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 404 10235 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 849ms
+203.0.113.7 - - [15/Jan/2026:03:32:46 +0000] "DELETE /health HTTP/1.1" 401 39890 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 569ms
+198.51.100.11 - - [15/Jan/2026:06:38:12 +0000] "GET /health HTTP/1.1" 200 51630 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 443ms
+203.0.113.17 - - [15/Jan/2026:05:02:35 +0000] "DELETE /api/v1/orders HTTP/1.1" 200 46300 "-" "python-requests/2.28.0" 1686ms
+198.51.100.3 - - [15/Jan/2026:00:42:05 +0000] "GET /api/v1/reports HTTP/1.1" 204 21866 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 968ms
+203.0.113.8 - - [15/Jan/2026:23:46:06 +0000] "PUT /api/v1/products HTTP/1.1" 200 51287 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2103ms
+203.0.113.17 - - [15/Jan/2026:03:52:11 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 17509 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1909ms
+203.0.113.3 - - [15/Jan/2026:03:54:48 +0000] "GET /metrics HTTP/1.1" 404 20693 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1752ms
+203.0.113.3 - - [15/Jan/2026:11:57:28 +0000] "GET /static/js/app.js HTTP/1.1" 200 43673 "-" "python-requests/2.28.0" 706ms
+198.51.100.11 - - [15/Jan/2026:05:07:25 +0000] "GET /api/v1/users/profile HTTP/1.1" 404 6291 "-" "python-requests/2.28.0" 1534ms
+203.0.113.26 - - [15/Jan/2026:20:56:51 +0000] "PUT /health HTTP/1.1" 200 45413 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1966ms
+203.0.113.11 - - [15/Jan/2026:03:26:58 +0000] "GET /api/v1/products HTTP/1.1" 404 47806 "-" "curl/7.88.1" 248ms
+198.51.100.9 - - [15/Jan/2026:19:24:49 +0000] "PUT /api/v1/logout HTTP/1.1" 304 44659 "-" "curl/7.88.1" 1802ms
+203.0.113.23 - - [15/Jan/2026:15:07:56 +0000] "GET /static/js/app.js HTTP/1.1" 404 47862 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 543ms
+203.0.113.27 - - [15/Jan/2026:22:55:43 +0000] "PUT /api/v1/users HTTP/1.1" 200 17345 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1295ms
+198.51.100.5 - - [15/Jan/2026:03:27:42 +0000] "GET /api/v1/payments HTTP/1.1" 200 34219 "-" "Googlebot/2.1" 2150ms
+198.51.100.18 - - [15/Jan/2026:17:57:39 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 43696 "-" "curl/7.88.1" 1584ms
+203.0.113.4 - - [15/Jan/2026:05:04:48 +0000] "GET /api/v1/payments HTTP/1.1" 200 33332 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1930ms
+198.51.100.3 - - [15/Jan/2026:07:35:41 +0000] "POST /api/v1/orders HTTP/1.1" 200 18429 "-" "Googlebot/2.1" 214ms
+203.0.113.25 - - [15/Jan/2026:18:28:05 +0000] "POST /static/js/app.js HTTP/1.1" 200 5366 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1888ms
+198.51.100.3 - - [15/Jan/2026:12:26:02 +0000] "PUT /metrics HTTP/1.1" 200 32795 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 80ms
+198.51.100.7 - - [15/Jan/2026:17:13:41 +0000] "GET /static/js/app.js HTTP/1.1" 200 39797 "-" "Googlebot/2.1" 1255ms
+198.51.100.14 - - [15/Jan/2026:10:35:49 +0000] "PUT /metrics HTTP/1.1" 200 3756 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 921ms
+198.51.100.11 - - [15/Jan/2026:03:48:42 +0000] "PUT /api/v1/reports HTTP/1.1" 403 24008 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1861ms
+203.0.113.15 - - [15/Jan/2026:16:23:44 +0000] "GET /metrics HTTP/1.1" 200 41727 "-" "Googlebot/2.1" 1203ms
+203.0.113.7 - - [15/Jan/2026:03:16:39 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 32471 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 583ms
+203.0.113.13 - - [15/Jan/2026:22:21:06 +0000] "GET /api/v1/login HTTP/1.1" 201 14328 "-" "curl/7.88.1" 1880ms
+203.0.113.27 - - [15/Jan/2026:14:42:37 +0000] "GET /api/v1/users/profile HTTP/1.1" 401 44249 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 512ms
+198.51.100.4 - - [15/Jan/2026:13:53:37 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 34957 "-" "Googlebot/2.1" 206ms
+198.51.100.2 - - [15/Jan/2026:23:52:08 +0000] "DELETE /api/v1/logout HTTP/1.1" 200 45538 "-" "curl/7.88.1" 2377ms
+203.0.113.7 - - [15/Jan/2026:12:26:38 +0000] "POST /api/v1/payments HTTP/1.1" 400 39925 "-" "Googlebot/2.1" 1326ms
+198.51.100.16 - - [15/Jan/2026:04:08:26 +0000] "GET /health HTTP/1.1" 201 22669 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1212ms
+198.51.100.10 - - [15/Jan/2026:20:13:12 +0000] "DELETE /health HTTP/1.1" 404 36101 "-" "Googlebot/2.1" 1293ms
+203.0.113.14 - - [15/Jan/2026:16:34:44 +0000] "GET /api/v1/payments HTTP/1.1" 200 44264 "-" "curl/7.88.1" 551ms
+198.51.100.12 - - [15/Jan/2026:15:37:36 +0000] "POST /api/v1/reports HTTP/1.1" 200 50058 "-" "Googlebot/2.1" 1450ms
+198.51.100.14 - - [15/Jan/2026:00:33:06 +0000] "POST /api/v1/payments HTTP/1.1" 429 35189 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1179ms
+203.0.113.2 - - [15/Jan/2026:08:48:50 +0000] "POST /api/v1/products HTTP/1.1" 200 44125 "-" "curl/7.88.1" 239ms
+203.0.113.11 - - [15/Jan/2026:06:48:34 +0000] "GET /api/v1/payments HTTP/1.1" 200 9796 "-" "python-requests/2.28.0" 262ms
+203.0.113.3 - - [15/Jan/2026:23:41:35 +0000] "POST /static/js/app.js HTTP/1.1" 201 6916 "-" "curl/7.88.1" 2309ms
+203.0.113.25 - - [15/Jan/2026:12:26:50 +0000] "GET /api/v1/cart HTTP/1.1" 404 19050 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 200ms
+198.51.100.15 - - [15/Jan/2026:19:55:49 +0000] "POST /api/v1/cart HTTP/1.1" 200 1049 "-" "curl/7.88.1" 1037ms
+203.0.113.29 - - [15/Jan/2026:17:47:38 +0000] "GET /api/v1/users/profile HTTP/1.1" 401 46378 "-" "Googlebot/2.1" 1514ms
+203.0.113.13 - - [15/Jan/2026:05:47:32 +0000] "GET /health HTTP/1.1" 201 11827 "-" "curl/7.88.1" 313ms
+203.0.113.8 - - [15/Jan/2026:04:10:37 +0000] "POST /api/v1/users HTTP/1.1" 201 18491 "-" "python-requests/2.28.0" 2287ms
+203.0.113.17 - - [15/Jan/2026:04:59:20 +0000] "GET /metrics HTTP/1.1" 201 46710 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 642ms
+198.51.100.10 - - [15/Jan/2026:18:35:22 +0000] "GET /api/v1/logout HTTP/1.1" 401 40544 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1241ms
+203.0.113.5 - - [15/Jan/2026:16:10:26 +0000] "POST /api/v1/cart HTTP/1.1" 200 12250 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2140ms
+198.51.100.6 - - [15/Jan/2026:10:23:18 +0000] "POST /api/v1/login HTTP/1.1" 200 14696 "-" "python-requests/2.28.0" 881ms
+203.0.113.14 - - [15/Jan/2026:21:22:28 +0000] "DELETE /api/v1/search?q=laptop HTTP/1.1" 304 49491 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 44ms
+203.0.113.16 - - [15/Jan/2026:12:16:34 +0000] "GET /api/v1/users HTTP/1.1" 404 21232 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1570ms
+198.51.100.18 - - [15/Jan/2026:16:28:31 +0000] "GET /api/v1/users HTTP/1.1" 301 50695 "-" "Googlebot/2.1" 1543ms
+203.0.113.3 - - [15/Jan/2026:02:06:10 +0000] "GET /api/v1/users/profile HTTP/1.1" 403 12816 "-" "Googlebot/2.1" 1320ms
+198.51.100.6 - - [15/Jan/2026:03:13:34 +0000] "GET /api/v1/payments HTTP/1.1" 200 14013 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 881ms
+198.51.100.16 - - [15/Jan/2026:14:45:21 +0000] "POST /api/v1/payments HTTP/1.1" 200 49148 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 637ms
+203.0.113.3 - - [15/Jan/2026:02:36:52 +0000] "GET /api/v1/login HTTP/1.1" 200 11864 "-" "Googlebot/2.1" 1039ms
+203.0.113.15 - - [15/Jan/2026:10:01:24 +0000] "GET /static/css/main.css HTTP/1.1" 200 29764 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1664ms
+198.51.100.15 - - [15/Jan/2026:01:44:54 +0000] "GET /api/v1/cart HTTP/1.1" 200 42236 "-" "Googlebot/2.1" 267ms
+203.0.113.5 - - [15/Jan/2026:19:05:18 +0000] "POST /api/v1/users/profile HTTP/1.1" 204 7155 "-" "python-requests/2.28.0" 1195ms
+203.0.113.29 - - [15/Jan/2026:17:14:08 +0000] "POST /static/css/main.css HTTP/1.1" 403 2219 "-" "curl/7.88.1" 1949ms
+198.51.100.19 - - [15/Jan/2026:21:56:58 +0000] "POST /api/v1/logout HTTP/1.1" 304 19531 "-" "python-requests/2.28.0" 598ms
+198.51.100.18 - - [15/Jan/2026:01:00:36 +0000] "POST /api/v1/users HTTP/1.1" 304 36577 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 587ms
+198.51.100.10 - - [15/Jan/2026:23:47:57 +0000] "POST /api/v1/cart HTTP/1.1" 304 5778 "-" "curl/7.88.1" 1256ms
+198.51.100.18 - - [15/Jan/2026:05:11:14 +0000] "POST /api/v1/orders HTTP/1.1" 201 42531 "-" "curl/7.88.1" 2107ms
+198.51.100.11 - - [15/Jan/2026:17:29:41 +0000] "GET /api/v1/orders HTTP/1.1" 200 12085 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2331ms
+198.51.100.7 - - [15/Jan/2026:06:46:37 +0000] "GET /health HTTP/1.1" 403 4614 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1034ms
+198.51.100.3 - - [15/Jan/2026:09:39:04 +0000] "POST /metrics HTTP/1.1" 200 44194 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 968ms
+203.0.113.13 - - [15/Jan/2026:04:36:36 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 201 21718 "-" "Googlebot/2.1" 1260ms
+203.0.113.24 - - [15/Jan/2026:07:45:47 +0000] "POST /static/css/main.css HTTP/1.1" 200 516 "-" "curl/7.88.1" 1290ms
+198.51.100.13 - - [15/Jan/2026:14:28:22 +0000] "POST /health HTTP/1.1" 200 9001 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1366ms
+203.0.113.20 - - [15/Jan/2026:04:57:34 +0000] "PUT /api/v1/cart HTTP/1.1" 200 11719 "-" "python-requests/2.28.0" 343ms
+203.0.113.13 - - [15/Jan/2026:16:40:01 +0000] "GET /api/v1/reports HTTP/1.1" 401 5211 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 316ms
+198.51.100.9 - - [15/Jan/2026:08:34:57 +0000] "POST /api/v1/logout HTTP/1.1" 400 14143 "-" "Googlebot/2.1" 158ms
+198.51.100.6 - - [15/Jan/2026:07:57:49 +0000] "PUT /api/v1/payments HTTP/1.1" 502 9940 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1506ms
+198.51.100.9 - - [15/Jan/2026:12:23:32 +0000] "GET /api/v1/products HTTP/1.1" 201 33041 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2098ms
+203.0.113.1 - - [15/Jan/2026:04:28:10 +0000] "GET /static/js/app.js HTTP/1.1" 401 45037 "-" "Googlebot/2.1" 687ms
+203.0.113.12 - - [15/Jan/2026:07:48:31 +0000] "GET /api/v1/reports HTTP/1.1" 404 31886 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1477ms
+203.0.113.15 - - [15/Jan/2026:16:58:50 +0000] "GET /health HTTP/1.1" 200 15536 "-" "curl/7.88.1" 183ms
+203.0.113.24 - - [15/Jan/2026:03:45:33 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 201 3243 "-" "python-requests/2.28.0" 171ms
+198.51.100.12 - - [15/Jan/2026:18:11:24 +0000] "GET /static/js/app.js HTTP/1.1" 429 17456 "-" "Googlebot/2.1" 2378ms
+198.51.100.13 - - [15/Jan/2026:08:24:58 +0000] "POST /metrics HTTP/1.1" 400 43017 "-" "Googlebot/2.1" 326ms
+203.0.113.15 - - [15/Jan/2026:19:00:32 +0000] "DELETE /static/css/main.css HTTP/1.1" 200 22812 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2002ms
+203.0.113.9 - - [15/Jan/2026:06:09:11 +0000] "PUT /api/v1/products HTTP/1.1" 200 5252 "-" "python-requests/2.28.0" 2115ms
+203.0.113.11 - - [15/Jan/2026:10:46:07 +0000] "POST /favicon.ico HTTP/1.1" 404 7954 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 951ms
+198.51.100.2 - - [15/Jan/2026:00:15:02 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 200 38918 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 668ms
+203.0.113.9 - - [15/Jan/2026:04:03:10 +0000] "GET /api/v1/products HTTP/1.1" 401 33796 "-" "Googlebot/2.1" 168ms
+203.0.113.17 - - [15/Jan/2026:23:46:42 +0000] "GET /api/v1/cart HTTP/1.1" 201 39479 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2316ms
+203.0.113.19 - - [15/Jan/2026:05:14:53 +0000] "GET /api/v1/orders HTTP/1.1" 201 39949 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1938ms
+203.0.113.27 - - [15/Jan/2026:21:32:16 +0000] "GET /api/v1/logout HTTP/1.1" 400 50498 "-" "Googlebot/2.1" 752ms
+203.0.113.11 - - [15/Jan/2026:12:24:08 +0000] "POST /api/v1/users/profile HTTP/1.1" 201 39294 "-" "curl/7.88.1" 289ms
+203.0.113.7 - - [15/Jan/2026:19:06:11 +0000] "GET /api/v1/orders HTTP/1.1" 301 33253 "-" "curl/7.88.1" 1727ms
+198.51.100.2 - - [15/Jan/2026:15:42:08 +0000] "GET /api/v1/users/profile HTTP/1.1" 304 33186 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 489ms
+198.51.100.10 - - [15/Jan/2026:13:23:55 +0000] "GET /api/v1/users/profile HTTP/1.1" 502 44670 "-" "Googlebot/2.1" 1775ms
+203.0.113.3 - - [15/Jan/2026:18:51:47 +0000] "DELETE /static/css/main.css HTTP/1.1" 200 31796 "-" "python-requests/2.28.0" 1569ms
+198.51.100.16 - - [15/Jan/2026:02:18:38 +0000] "GET /static/css/main.css HTTP/1.1" 200 16880 "-" "curl/7.88.1" 1962ms
+198.51.100.6 - - [15/Jan/2026:16:07:33 +0000] "POST /health HTTP/1.1" 200 558 "-" "Googlebot/2.1" 37ms
+203.0.113.1 - - [15/Jan/2026:11:06:09 +0000] "POST /api/v1/payments HTTP/1.1" 200 45273 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1301ms
+203.0.113.28 - - [15/Jan/2026:19:17:43 +0000] "GET /health HTTP/1.1" 304 27958 "-" "python-requests/2.28.0" 2320ms
+203.0.113.26 - - [15/Jan/2026:05:23:35 +0000] "GET /static/css/main.css HTTP/1.1" 304 51566 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2291ms
+198.51.100.7 - - [15/Jan/2026:23:08:54 +0000] "PUT /health HTTP/1.1" 200 38056 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1418ms
+198.51.100.14 - - [15/Jan/2026:06:32:25 +0000] "GET /api/v1/reports HTTP/1.1" 200 29468 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 670ms
+203.0.113.22 - - [15/Jan/2026:04:30:59 +0000] "GET /api/v1/products HTTP/1.1" 200 41872 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 29ms
+198.51.100.10 - - [15/Jan/2026:02:38:02 +0000] "POST /api/v1/login HTTP/1.1" 200 17441 "-" "python-requests/2.28.0" 916ms
+198.51.100.18 - - [15/Jan/2026:22:38:03 +0000] "POST /api/v1/users/profile HTTP/1.1" 201 40436 "-" "python-requests/2.28.0" 2142ms
+203.0.113.12 - - [15/Jan/2026:06:02:50 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 200 13419 "-" "python-requests/2.28.0" 2130ms
+198.51.100.10 - - [15/Jan/2026:11:15:41 +0000] "DELETE /api/v1/cart HTTP/1.1" 404 15382 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 702ms
+203.0.113.1 - - [15/Jan/2026:21:25:25 +0000] "GET /api/v1/login HTTP/1.1" 200 51296 "-" "python-requests/2.28.0" 1644ms
+198.51.100.9 - - [15/Jan/2026:17:18:46 +0000] "GET /api/v1/cart HTTP/1.1" 200 48495 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 289ms
+198.51.100.7 - - [15/Jan/2026:12:36:00 +0000] "POST /metrics HTTP/1.1" 200 15030 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 804ms
+203.0.113.17 - - [15/Jan/2026:16:18:21 +0000] "GET /static/css/main.css HTTP/1.1" 204 7177 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2296ms
+203.0.113.8 - - [15/Jan/2026:12:36:30 +0000] "DELETE /health HTTP/1.1" 304 37876 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1032ms
+203.0.113.16 - - [15/Jan/2026:00:30:07 +0000] "POST /api/v1/logout HTTP/1.1" 201 44868 "-" "Googlebot/2.1" 1895ms
+203.0.113.17 - - [15/Jan/2026:10:26:22 +0000] "GET /static/css/main.css HTTP/1.1" 401 51885 "-" "curl/7.88.1" 910ms
+198.51.100.5 - - [15/Jan/2026:12:43:47 +0000] "GET /api/v1/reports HTTP/1.1" 200 16469 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1184ms
+203.0.113.22 - - [15/Jan/2026:06:57:36 +0000] "GET /api/v1/cart HTTP/1.1" 200 31431 "-" "python-requests/2.28.0" 1293ms
+203.0.113.18 - - [15/Jan/2026:07:47:15 +0000] "GET /api/v1/reports HTTP/1.1" 404 12662 "-" "curl/7.88.1" 2051ms
+203.0.113.17 - - [15/Jan/2026:03:07:58 +0000] "GET /api/v1/orders HTTP/1.1" 200 16564 "-" "curl/7.88.1" 1466ms
+203.0.113.6 - - [15/Jan/2026:15:23:39 +0000] "PUT /favicon.ico HTTP/1.1" 200 50285 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2225ms
+203.0.113.21 - - [15/Jan/2026:16:17:25 +0000] "PUT /api/v1/users/profile HTTP/1.1" 400 18204 "-" "curl/7.88.1" 2018ms
+203.0.113.15 - - [15/Jan/2026:01:32:22 +0000] "GET /api/v1/users HTTP/1.1" 301 27933 "-" "Googlebot/2.1" 1967ms
+203.0.113.26 - - [15/Jan/2026:10:44:00 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 45960 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2130ms
+203.0.113.1 - - [15/Jan/2026:19:55:16 +0000] "GET /static/css/main.css HTTP/1.1" 400 6802 "-" "python-requests/2.28.0" 1340ms
+203.0.113.12 - - [15/Jan/2026:05:31:27 +0000] "GET /api/v1/orders HTTP/1.1" 200 31090 "-" "python-requests/2.28.0" 1413ms
+203.0.113.14 - - [15/Jan/2026:08:28:11 +0000] "POST /api/v1/reports HTTP/1.1" 500 24599 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1503ms
+198.51.100.8 - - [15/Jan/2026:07:35:27 +0000] "GET /favicon.ico HTTP/1.1" 404 15179 "-" "python-requests/2.28.0" 417ms
+203.0.113.25 - - [15/Jan/2026:05:26:31 +0000] "GET /api/v1/products HTTP/1.1" 429 10000 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1945ms
+203.0.113.9 - - [15/Jan/2026:08:35:54 +0000] "DELETE /api/v1/cart HTTP/1.1" 404 20891 "-" "python-requests/2.28.0" 2001ms
+198.51.100.8 - - [15/Jan/2026:06:52:16 +0000] "GET /static/css/main.css HTTP/1.1" 200 45455 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 677ms
+198.51.100.2 - - [15/Jan/2026:11:35:35 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 429 22132 "-" "python-requests/2.28.0" 1072ms
+203.0.113.17 - - [15/Jan/2026:06:36:36 +0000] "POST /api/v1/users HTTP/1.1" 201 8145 "-" "Googlebot/2.1" 1446ms
+198.51.100.13 - - [15/Jan/2026:15:49:47 +0000] "GET /api/v1/logout HTTP/1.1" 200 23472 "-" "Googlebot/2.1" 1339ms
+203.0.113.29 - - [15/Jan/2026:05:40:51 +0000] "GET /static/css/main.css HTTP/1.1" 401 18977 "-" "curl/7.88.1" 1907ms
+203.0.113.22 - - [15/Jan/2026:02:10:21 +0000] "POST /api/v1/payments HTTP/1.1" 401 37662 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1665ms
+203.0.113.15 - - [15/Jan/2026:20:25:17 +0000] "POST /metrics HTTP/1.1" 403 19294 "-" "Googlebot/2.1" 1103ms
+203.0.113.29 - - [15/Jan/2026:05:11:54 +0000] "POST /api/v1/reports HTTP/1.1" 400 34340 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1852ms
+203.0.113.2 - - [15/Jan/2026:06:10:25 +0000] "GET /api/v1/reports HTTP/1.1" 200 43586 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1038ms
+203.0.113.7 - - [15/Jan/2026:12:33:48 +0000] "GET /api/v1/login HTTP/1.1" 204 36142 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 228ms
+203.0.113.6 - - [15/Jan/2026:09:14:15 +0000] "GET /health HTTP/1.1" 401 10376 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 353ms
+198.51.100.19 - - [15/Jan/2026:05:01:02 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 401 8484 "-" "Googlebot/2.1" 545ms
+198.51.100.14 - - [15/Jan/2026:08:35:28 +0000] "POST /static/js/app.js HTTP/1.1" 200 31405 "-" "Googlebot/2.1" 1921ms
+203.0.113.9 - - [15/Jan/2026:16:40:40 +0000] "GET /favicon.ico HTTP/1.1" 400 30120 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2318ms
+198.51.100.6 - - [15/Jan/2026:02:28:19 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 31765 "-" "curl/7.88.1" 2218ms
+203.0.113.24 - - [15/Jan/2026:16:52:48 +0000] "POST /health HTTP/1.1" 200 20094 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 51ms
+203.0.113.9 - - [15/Jan/2026:15:19:00 +0000] "POST /health HTTP/1.1" 204 35268 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 42ms
+203.0.113.28 - - [15/Jan/2026:06:26:56 +0000] "GET /favicon.ico HTTP/1.1" 200 673 "-" "python-requests/2.28.0" 2253ms
+198.51.100.7 - - [15/Jan/2026:07:16:05 +0000] "POST /static/css/main.css HTTP/1.1" 200 10900 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1604ms
+203.0.113.28 - - [15/Jan/2026:20:47:34 +0000] "GET /api/v1/cart HTTP/1.1" 500 40387 "-" "python-requests/2.28.0" 1121ms
+203.0.113.18 - - [15/Jan/2026:03:40:29 +0000] "POST /api/v1/orders HTTP/1.1" 200 12154 "-" "python-requests/2.28.0" 567ms
+198.51.100.11 - - [15/Jan/2026:10:01:09 +0000] "PUT /health HTTP/1.1" 404 41012 "-" "curl/7.88.1" 2023ms
+203.0.113.4 - - [15/Jan/2026:22:28:46 +0000] "GET /api/v1/products HTTP/1.1" 200 18688 "-" "curl/7.88.1" 1110ms
+203.0.113.1 - - [15/Jan/2026:10:26:19 +0000] "GET /api/v1/login HTTP/1.1" 200 1165 "-" "curl/7.88.1" 2029ms
+198.51.100.3 - - [15/Jan/2026:04:03:17 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 404 2279 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1360ms
+203.0.113.26 - - [15/Jan/2026:12:53:00 +0000] "GET /api/v1/cart HTTP/1.1" 204 12101 "-" "python-requests/2.28.0" 795ms
+203.0.113.8 - - [15/Jan/2026:06:29:47 +0000] "GET /static/css/main.css HTTP/1.1" 500 29229 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1020ms
+203.0.113.7 - - [15/Jan/2026:10:10:40 +0000] "DELETE /api/v1/payments HTTP/1.1" 200 31187 "-" "python-requests/2.28.0" 1601ms
+198.51.100.18 - - [15/Jan/2026:15:40:19 +0000] "GET /api/v1/reports HTTP/1.1" 304 34339 "-" "python-requests/2.28.0" 508ms
+203.0.113.13 - - [15/Jan/2026:07:40:27 +0000] "POST /api/v1/users/profile HTTP/1.1" 200 43892 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 900ms
+203.0.113.21 - - [15/Jan/2026:07:00:02 +0000] "GET /api/v1/products HTTP/1.1" 200 38518 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 498ms
+198.51.100.9 - - [15/Jan/2026:07:10:31 +0000] "PUT /api/v1/reports HTTP/1.1" 400 10357 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1529ms
+203.0.113.6 - - [15/Jan/2026:11:41:09 +0000] "POST /api/v1/users/profile HTTP/1.1" 500 41168 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 253ms
+198.51.100.16 - - [15/Jan/2026:20:48:22 +0000] "GET /api/v1/products HTTP/1.1" 204 15448 "-" "Googlebot/2.1" 1305ms
+203.0.113.29 - - [15/Jan/2026:08:57:02 +0000] "GET /api/v1/users HTTP/1.1" 404 24957 "-" "curl/7.88.1" 1475ms
+198.51.100.3 - - [15/Jan/2026:18:11:34 +0000] "PUT /api/v1/cart HTTP/1.1" 200 35768 "-" "curl/7.88.1" 2015ms
+203.0.113.23 - - [15/Jan/2026:02:33:09 +0000] "POST /api/v1/reports HTTP/1.1" 201 18243 "-" "curl/7.88.1" 2279ms
+203.0.113.29 - - [15/Jan/2026:00:49:40 +0000] "GET /static/js/app.js HTTP/1.1" 200 35694 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1511ms
+198.51.100.4 - - [15/Jan/2026:07:20:46 +0000] "POST /api/v1/reports HTTP/1.1" 200 1426 "-" "Googlebot/2.1" 1499ms
+203.0.113.5 - - [15/Jan/2026:04:39:18 +0000] "POST /api/v1/orders HTTP/1.1" 301 44975 "-" "Googlebot/2.1" 2045ms
+203.0.113.21 - - [15/Jan/2026:21:04:02 +0000] "POST /api/v1/payments HTTP/1.1" 200 7439 "-" "Googlebot/2.1" 402ms
+203.0.113.9 - - [15/Jan/2026:06:06:02 +0000] "GET /static/js/app.js HTTP/1.1" 200 13443 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 446ms
+198.51.100.8 - - [15/Jan/2026:11:14:38 +0000] "POST /api/v1/payments HTTP/1.1" 204 34660 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1056ms
+198.51.100.17 - - [15/Jan/2026:14:51:40 +0000] "GET /api/v1/users HTTP/1.1" 200 43175 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2020ms
+203.0.113.4 - - [15/Jan/2026:19:17:33 +0000] "POST /api/v1/cart HTTP/1.1" 429 27459 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1519ms
+203.0.113.3 - - [15/Jan/2026:03:06:46 +0000] "GET /static/js/app.js HTTP/1.1" 200 5307 "-" "Googlebot/2.1" 892ms
+203.0.113.15 - - [15/Jan/2026:20:11:35 +0000] "POST /api/v1/orders HTTP/1.1" 200 34684 "-" "Googlebot/2.1" 1026ms
+198.51.100.19 - - [15/Jan/2026:21:29:44 +0000] "POST /api/v1/reports HTTP/1.1" 200 50419 "-" "python-requests/2.28.0" 2369ms
+198.51.100.14 - - [15/Jan/2026:12:32:21 +0000] "POST /api/v1/users/profile HTTP/1.1" 200 11132 "-" "Googlebot/2.1" 746ms
+198.51.100.14 - - [15/Jan/2026:17:20:54 +0000] "GET /api/v1/cart HTTP/1.1" 400 29233 "-" "python-requests/2.28.0" 1451ms
+203.0.113.24 - - [15/Jan/2026:07:36:34 +0000] "POST /api/v1/logout HTTP/1.1" 401 28419 "-" "Googlebot/2.1" 1332ms
+203.0.113.14 - - [15/Jan/2026:14:28:25 +0000] "POST /api/v1/logout HTTP/1.1" 304 48996 "-" "python-requests/2.28.0" 1048ms
+203.0.113.1 - - [15/Jan/2026:09:00:19 +0000] "GET /health HTTP/1.1" 400 1268 "-" "curl/7.88.1" 2128ms
+203.0.113.15 - - [15/Jan/2026:16:35:36 +0000] "GET /static/js/app.js HTTP/1.1" 200 1622 "-" "Googlebot/2.1" 1138ms
+198.51.100.8 - - [15/Jan/2026:04:16:23 +0000] "GET /api/v1/login HTTP/1.1" 200 30370 "-" "curl/7.88.1" 1464ms
+198.51.100.9 - - [15/Jan/2026:12:36:58 +0000] "GET /api/v1/orders HTTP/1.1" 200 19880 "-" "Googlebot/2.1" 384ms
+203.0.113.14 - - [15/Jan/2026:22:44:36 +0000] "GET /api/v1/reports HTTP/1.1" 200 31823 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 716ms
+203.0.113.7 - - [15/Jan/2026:01:58:49 +0000] "GET /api/v1/users HTTP/1.1" 404 37967 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1570ms
+203.0.113.22 - - [15/Jan/2026:23:41:54 +0000] "POST /api/v1/users/profile HTTP/1.1" 201 27497 "-" "curl/7.88.1" 501ms
+198.51.100.10 - - [15/Jan/2026:09:33:02 +0000] "GET /api/v1/payments HTTP/1.1" 502 41631 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1574ms
+203.0.113.21 - - [15/Jan/2026:01:43:46 +0000] "GET /metrics HTTP/1.1" 204 45928 "-" "curl/7.88.1" 912ms
+203.0.113.26 - - [15/Jan/2026:07:27:18 +0000] "PUT /api/v1/logout HTTP/1.1" 400 37899 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2075ms
+203.0.113.26 - - [15/Jan/2026:23:03:35 +0000] "GET /api/v1/products HTTP/1.1" 200 5609 "-" "Googlebot/2.1" 1957ms
+203.0.113.26 - - [15/Jan/2026:04:30:35 +0000] "GET /api/v1/login HTTP/1.1" 201 33087 "-" "curl/7.88.1" 1787ms
+203.0.113.13 - - [15/Jan/2026:19:47:33 +0000] "PUT /static/css/main.css HTTP/1.1" 403 37642 "-" "Googlebot/2.1" 811ms
+203.0.113.16 - - [15/Jan/2026:21:59:36 +0000] "GET /api/v1/login HTTP/1.1" 200 51106 "-" "python-requests/2.28.0" 1769ms
+203.0.113.6 - - [15/Jan/2026:06:20:22 +0000] "GET /api/v1/payments HTTP/1.1" 201 27957 "-" "python-requests/2.28.0" 1504ms
+198.51.100.10 - - [15/Jan/2026:14:39:09 +0000] "GET /api/v1/logout HTTP/1.1" 200 11292 "-" "Googlebot/2.1" 1440ms
+203.0.113.29 - - [15/Jan/2026:23:54:05 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 13286 "-" "curl/7.88.1" 1539ms
+203.0.113.8 - - [15/Jan/2026:10:44:51 +0000] "GET /api/v1/orders HTTP/1.1" 401 9878 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1186ms
+203.0.113.8 - - [15/Jan/2026:23:34:13 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 204 1690 "-" "curl/7.88.1" 1367ms
+203.0.113.14 - - [15/Jan/2026:23:09:44 +0000] "DELETE /api/v1/logout HTTP/1.1" 200 36166 "-" "Googlebot/2.1" 1986ms
+198.51.100.16 - - [15/Jan/2026:08:10:03 +0000] "GET /static/css/main.css HTTP/1.1" 400 43684 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2165ms
+203.0.113.19 - - [15/Jan/2026:14:41:00 +0000] "GET /api/v1/logout HTTP/1.1" 404 40698 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1119ms
+203.0.113.5 - - [15/Jan/2026:00:18:55 +0000] "POST /api/v1/payments HTTP/1.1" 200 43649 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1483ms
+198.51.100.13 - - [15/Jan/2026:15:55:38 +0000] "POST /api/v1/orders HTTP/1.1" 200 33527 "-" "python-requests/2.28.0" 415ms
+198.51.100.6 - - [15/Jan/2026:22:01:02 +0000] "GET /api/v1/products HTTP/1.1" 200 33010 "-" "Googlebot/2.1" 1883ms
+203.0.113.16 - - [15/Jan/2026:00:22:43 +0000] "DELETE /health HTTP/1.1" 200 32308 "-" "curl/7.88.1" 1619ms
+203.0.113.23 - - [15/Jan/2026:01:40:16 +0000] "POST /api/v1/payments HTTP/1.1" 200 15679 "-" "python-requests/2.28.0" 2061ms
+203.0.113.25 - - [15/Jan/2026:12:42:08 +0000] "GET /api/v1/cart HTTP/1.1" 200 14983 "-" "python-requests/2.28.0" 629ms
+203.0.113.6 - - [15/Jan/2026:07:36:09 +0000] "POST /api/v1/cart HTTP/1.1" 404 40337 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 939ms
+203.0.113.28 - - [15/Jan/2026:04:13:41 +0000] "GET /api/v1/users/profile HTTP/1.1" 400 21780 "-" "Googlebot/2.1" 1847ms
+203.0.113.9 - - [15/Jan/2026:13:58:49 +0000] "GET /static/js/app.js HTTP/1.1" 200 20450 "-" "curl/7.88.1" 2153ms
+203.0.113.10 - - [15/Jan/2026:05:20:53 +0000] "GET /metrics HTTP/1.1" 200 36725 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2191ms
+203.0.113.10 - - [15/Jan/2026:14:47:59 +0000] "GET /api/v1/logout HTTP/1.1" 200 27334 "-" "python-requests/2.28.0" 1692ms
+198.51.100.12 - - [15/Jan/2026:05:01:48 +0000] "GET /api/v1/products HTTP/1.1" 502 12516 "-" "curl/7.88.1" 445ms
+198.51.100.11 - - [15/Jan/2026:07:14:43 +0000] "GET /favicon.ico HTTP/1.1" 304 40331 "-" "Googlebot/2.1" 953ms
+203.0.113.2 - - [15/Jan/2026:16:54:38 +0000] "POST /api/v1/login HTTP/1.1" 404 51306 "-" "curl/7.88.1" 1960ms
+198.51.100.2 - - [15/Jan/2026:05:12:14 +0000] "POST /api/v1/products HTTP/1.1" 200 32407 "-" "curl/7.88.1" 1948ms
+203.0.113.3 - - [15/Jan/2026:23:42:12 +0000] "POST /api/v1/logout HTTP/1.1" 200 17885 "-" "curl/7.88.1" 1699ms
+203.0.113.14 - - [15/Jan/2026:14:56:15 +0000] "GET /api/v1/products HTTP/1.1" 201 40639 "-" "python-requests/2.28.0" 2014ms
+203.0.113.28 - - [15/Jan/2026:12:39:47 +0000] "POST /api/v1/logout HTTP/1.1" 200 40041 "-" "python-requests/2.28.0" 1566ms
+198.51.100.8 - - [15/Jan/2026:03:28:29 +0000] "DELETE /api/v1/payments HTTP/1.1" 404 51771 "-" "Googlebot/2.1" 165ms
+203.0.113.3 - - [15/Jan/2026:12:33:48 +0000] "GET /api/v1/cart HTTP/1.1" 304 26126 "-" "Googlebot/2.1" 168ms
+198.51.100.12 - - [15/Jan/2026:09:29:10 +0000] "GET /api/v1/orders HTTP/1.1" 200 29006 "-" "python-requests/2.28.0" 1638ms
+203.0.113.28 - - [15/Jan/2026:14:53:41 +0000] "GET /favicon.ico HTTP/1.1" 200 45416 "-" "curl/7.88.1" 2125ms
+203.0.113.29 - - [15/Jan/2026:22:34:08 +0000] "GET /api/v1/reports HTTP/1.1" 204 7616 "-" "Googlebot/2.1" 744ms
+203.0.113.26 - - [15/Jan/2026:18:57:45 +0000] "POST /metrics HTTP/1.1" 201 1832 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 740ms
+203.0.113.13 - - [15/Jan/2026:02:07:45 +0000] "PUT /api/v1/login HTTP/1.1" 200 21438 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 679ms
+203.0.113.29 - - [15/Jan/2026:19:10:24 +0000] "POST /api/v1/login HTTP/1.1" 301 46552 "-" "Googlebot/2.1" 1581ms
+198.51.100.7 - - [15/Jan/2026:21:55:09 +0000] "POST /api/v1/users HTTP/1.1" 500 11399 "-" "Googlebot/2.1" 1380ms
+203.0.113.11 - - [15/Jan/2026:09:19:46 +0000] "GET /api/v1/products HTTP/1.1" 500 46864 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 218ms
+203.0.113.29 - - [15/Jan/2026:00:39:48 +0000] "GET /api/v1/payments HTTP/1.1" 200 7904 "-" "curl/7.88.1" 546ms
+203.0.113.17 - - [15/Jan/2026:19:56:31 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 204 32879 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2234ms
+203.0.113.16 - - [15/Jan/2026:14:05:38 +0000] "GET /favicon.ico HTTP/1.1" 403 31376 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1866ms
+198.51.100.10 - - [15/Jan/2026:01:11:09 +0000] "GET /api/v1/orders HTTP/1.1" 304 18426 "-" "curl/7.88.1" 2291ms
+203.0.113.4 - - [15/Jan/2026:09:21:58 +0000] "POST /api/v1/users HTTP/1.1" 200 2325 "-" "Googlebot/2.1" 2375ms
+203.0.113.6 - - [15/Jan/2026:19:42:44 +0000] "GET /api/v1/login HTTP/1.1" 201 11881 "-" "python-requests/2.28.0" 668ms
+198.51.100.16 - - [15/Jan/2026:02:49:19 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 429 38143 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1483ms
+203.0.113.21 - - [15/Jan/2026:02:18:30 +0000] "POST /api/v1/users/profile HTTP/1.1" 200 4634 "-" "Googlebot/2.1" 1758ms
+203.0.113.9 - - [15/Jan/2026:16:13:44 +0000] "GET /api/v1/reports HTTP/1.1" 200 21775 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2166ms
+203.0.113.14 - - [15/Jan/2026:15:46:44 +0000] "GET /api/v1/login HTTP/1.1" 400 48023 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2174ms
+198.51.100.10 - - [15/Jan/2026:18:39:22 +0000] "GET /static/css/main.css HTTP/1.1" 400 20941 "-" "Googlebot/2.1" 1071ms
+203.0.113.9 - - [15/Jan/2026:05:56:39 +0000] "PUT /api/v1/cart HTTP/1.1" 404 41609 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2046ms
+203.0.113.15 - - [15/Jan/2026:20:50:07 +0000] "GET /api/v1/orders HTTP/1.1" 200 7946 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 106ms
+198.51.100.19 - - [15/Jan/2026:10:22:35 +0000] "GET /api/v1/logout HTTP/1.1" 401 27373 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1703ms
+198.51.100.12 - - [15/Jan/2026:02:19:19 +0000] "GET /api/v1/users HTTP/1.1" 401 13385 "-" "python-requests/2.28.0" 1161ms
+198.51.100.4 - - [15/Jan/2026:12:46:36 +0000] "POST /api/v1/logout HTTP/1.1" 200 7660 "-" "python-requests/2.28.0" 1373ms
+198.51.100.11 - - [15/Jan/2026:21:30:58 +0000] "GET /static/js/app.js HTTP/1.1" 200 12915 "-" "python-requests/2.28.0" 1361ms
+198.51.100.2 - - [15/Jan/2026:17:57:21 +0000] "GET /api/v1/payments HTTP/1.1" 200 31755 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 644ms
+198.51.100.1 - - [15/Jan/2026:18:46:43 +0000] "POST /api/v1/users/profile HTTP/1.1" 429 3871 "-" "python-requests/2.28.0" 2142ms
+203.0.113.21 - - [15/Jan/2026:02:09:17 +0000] "GET /api/v1/orders HTTP/1.1" 400 45124 "-" "python-requests/2.28.0" 1366ms
+203.0.113.2 - - [15/Jan/2026:19:24:11 +0000] "POST /static/css/main.css HTTP/1.1" 401 35214 "-" "Googlebot/2.1" 687ms
+198.51.100.10 - - [15/Jan/2026:08:26:05 +0000] "GET /static/js/app.js HTTP/1.1" 500 20403 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1296ms
+198.51.100.3 - - [15/Jan/2026:09:11:07 +0000] "GET /metrics HTTP/1.1" 201 20033 "-" "Googlebot/2.1" 893ms
+203.0.113.24 - - [15/Jan/2026:00:51:30 +0000] "GET /api/v1/logout HTTP/1.1" 200 6268 "-" "Googlebot/2.1" 1825ms
+198.51.100.4 - - [15/Jan/2026:10:09:49 +0000] "GET /api/v1/orders HTTP/1.1" 200 31884 "-" "python-requests/2.28.0" 2152ms
+203.0.113.7 - - [15/Jan/2026:12:45:55 +0000] "DELETE /api/v1/payments HTTP/1.1" 200 13647 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 157ms
+198.51.100.5 - - [15/Jan/2026:14:56:02 +0000] "GET /api/v1/users HTTP/1.1" 200 3085 "-" "python-requests/2.28.0" 364ms
+203.0.113.7 - - [15/Jan/2026:18:48:19 +0000] "DELETE /api/v1/logout HTTP/1.1" 403 49060 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1287ms
+198.51.100.12 - - [15/Jan/2026:17:20:49 +0000] "GET /metrics HTTP/1.1" 200 12818 "-" "python-requests/2.28.0" 1181ms
+203.0.113.29 - - [15/Jan/2026:00:39:35 +0000] "GET /health HTTP/1.1" 200 10521 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1128ms
+198.51.100.4 - - [15/Jan/2026:08:09:45 +0000] "GET /api/v1/orders HTTP/1.1" 304 23158 "-" "python-requests/2.28.0" 2258ms
+203.0.113.19 - - [15/Jan/2026:14:03:08 +0000] "GET /api/v1/products HTTP/1.1" 200 20606 "-" "Googlebot/2.1" 1395ms
+203.0.113.2 - - [15/Jan/2026:01:05:27 +0000] "PUT /api/v1/users/profile HTTP/1.1" 404 3506 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 441ms
+203.0.113.26 - - [15/Jan/2026:11:19:21 +0000] "GET /api/v1/reports HTTP/1.1" 400 39046 "-" "Googlebot/2.1" 1834ms
+203.0.113.13 - - [15/Jan/2026:04:05:52 +0000] "GET /api/v1/users/profile HTTP/1.1" 500 50297 "-" "Googlebot/2.1" 1915ms
+198.51.100.16 - - [15/Jan/2026:07:14:09 +0000] "PUT /api/v1/login HTTP/1.1" 201 20541 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1914ms
+198.51.100.11 - - [15/Jan/2026:10:29:31 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 25895 "-" "python-requests/2.28.0" 759ms
+203.0.113.2 - - [15/Jan/2026:05:18:49 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 23232 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1968ms
+203.0.113.23 - - [15/Jan/2026:17:41:04 +0000] "GET /api/v1/cart HTTP/1.1" 200 26787 "-" "python-requests/2.28.0" 446ms
+203.0.113.20 - - [15/Jan/2026:07:35:10 +0000] "PUT /static/css/main.css HTTP/1.1" 400 27295 "-" "Googlebot/2.1" 985ms
+198.51.100.2 - - [15/Jan/2026:18:50:21 +0000] "POST /api/v1/login HTTP/1.1" 200 13847 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1773ms
+198.51.100.6 - - [15/Jan/2026:15:07:37 +0000] "GET /api/v1/products HTTP/1.1" 403 44083 "-" "Googlebot/2.1" 327ms
+198.51.100.10 - - [15/Jan/2026:09:25:04 +0000] "PUT /metrics HTTP/1.1" 304 6599 "-" "curl/7.88.1" 1831ms
+198.51.100.10 - - [15/Jan/2026:15:41:42 +0000] "GET /api/v1/payments HTTP/1.1" 400 50750 "-" "python-requests/2.28.0" 1560ms
+203.0.113.4 - - [15/Jan/2026:21:09:28 +0000] "GET /api/v1/orders HTTP/1.1" 200 38261 "-" "curl/7.88.1" 8ms
+198.51.100.6 - - [15/Jan/2026:06:43:56 +0000] "GET /static/css/main.css HTTP/1.1" 401 38075 "-" "curl/7.88.1" 1839ms
+203.0.113.21 - - [15/Jan/2026:02:37:00 +0000] "GET /favicon.ico HTTP/1.1" 404 20158 "-" "python-requests/2.28.0" 1788ms
+198.51.100.11 - - [15/Jan/2026:17:03:00 +0000] "DELETE /static/css/main.css HTTP/1.1" 200 19479 "-" "python-requests/2.28.0" 263ms
+198.51.100.17 - - [15/Jan/2026:22:37:25 +0000] "POST /api/v1/login HTTP/1.1" 200 2243 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 971ms
+198.51.100.12 - - [15/Jan/2026:17:13:42 +0000] "POST /api/v1/reports HTTP/1.1" 200 26809 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1570ms
+203.0.113.12 - - [15/Jan/2026:13:09:18 +0000] "PUT /api/v1/products HTTP/1.1" 200 36600 "-" "python-requests/2.28.0" 1583ms
+198.51.100.14 - - [15/Jan/2026:23:56:31 +0000] "GET /api/v1/products HTTP/1.1" 200 4901 "-" "curl/7.88.1" 72ms
+198.51.100.14 - - [15/Jan/2026:22:38:59 +0000] "POST /api/v1/products HTTP/1.1" 200 9192 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1711ms
+203.0.113.28 - - [15/Jan/2026:12:22:14 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 301 27995 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2269ms
+203.0.113.12 - - [15/Jan/2026:22:32:17 +0000] "POST /favicon.ico HTTP/1.1" 200 38075 "-" "curl/7.88.1" 2048ms
+203.0.113.27 - - [15/Jan/2026:03:37:30 +0000] "POST /api/v1/users HTTP/1.1" 200 37434 "-" "python-requests/2.28.0" 1987ms
+198.51.100.16 - - [15/Jan/2026:14:33:05 +0000] "GET /api/v1/products HTTP/1.1" 404 48126 "-" "python-requests/2.28.0" 2164ms
+198.51.100.5 - - [15/Jan/2026:18:19:39 +0000] "GET /api/v1/orders HTTP/1.1" 204 41531 "-" "Googlebot/2.1" 327ms
+203.0.113.4 - - [15/Jan/2026:16:57:30 +0000] "POST /api/v1/cart HTTP/1.1" 502 906 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1928ms
+198.51.100.8 - - [15/Jan/2026:01:44:59 +0000] "POST /static/css/main.css HTTP/1.1" 200 19508 "-" "curl/7.88.1" 1192ms
+198.51.100.10 - - [15/Jan/2026:18:10:36 +0000] "GET /api/v1/reports HTTP/1.1" 304 17268 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 259ms
+203.0.113.4 - - [15/Jan/2026:15:05:08 +0000] "GET /api/v1/logout HTTP/1.1" 429 41115 "-" "python-requests/2.28.0" 119ms
+198.51.100.4 - - [15/Jan/2026:08:17:54 +0000] "GET /static/js/app.js HTTP/1.1" 200 16718 "-" "Googlebot/2.1" 550ms
+203.0.113.17 - - [15/Jan/2026:23:09:42 +0000] "GET /api/v1/reports HTTP/1.1" 200 39772 "-" "Googlebot/2.1" 723ms
+203.0.113.29 - - [15/Jan/2026:05:51:33 +0000] "POST /api/v1/logout HTTP/1.1" 200 17321 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 975ms
+203.0.113.3 - - [15/Jan/2026:13:49:24 +0000] "POST /api/v1/login HTTP/1.1" 200 39229 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 639ms
+203.0.113.16 - - [15/Jan/2026:23:53:22 +0000] "PUT /api/v1/reports HTTP/1.1" 401 11163 "-" "Googlebot/2.1" 871ms
+203.0.113.4 - - [15/Jan/2026:12:30:19 +0000] "GET /api/v1/logout HTTP/1.1" 200 3642 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 694ms
+198.51.100.2 - - [15/Jan/2026:08:09:33 +0000] "GET /static/css/main.css HTTP/1.1" 404 46442 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1605ms
+203.0.113.28 - - [15/Jan/2026:21:02:06 +0000] "GET /health HTTP/1.1" 201 25235 "-" "Googlebot/2.1" 1301ms
+198.51.100.6 - - [15/Jan/2026:08:17:51 +0000] "POST /static/js/app.js HTTP/1.1" 201 40208 "-" "python-requests/2.28.0" 1124ms
+203.0.113.7 - - [15/Jan/2026:23:43:37 +0000] "GET /api/v1/payments HTTP/1.1" 400 25834 "-" "curl/7.88.1" 1896ms
+203.0.113.13 - - [15/Jan/2026:17:00:43 +0000] "DELETE /metrics HTTP/1.1" 404 45438 "-" "python-requests/2.28.0" 744ms
+203.0.113.1 - - [15/Jan/2026:21:28:22 +0000] "GET /api/v1/users HTTP/1.1" 201 6602 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2159ms
+203.0.113.15 - - [15/Jan/2026:02:03:38 +0000] "GET /health HTTP/1.1" 200 2430 "-" "Googlebot/2.1" 105ms
+198.51.100.14 - - [15/Jan/2026:19:08:24 +0000] "GET /favicon.ico HTTP/1.1" 401 8181 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 499ms
+198.51.100.14 - - [15/Jan/2026:09:29:42 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 45790 "-" "python-requests/2.28.0" 762ms
+203.0.113.5 - - [15/Jan/2026:08:10:49 +0000] "PUT /api/v1/users/profile HTTP/1.1" 200 50620 "-" "python-requests/2.28.0" 1756ms
+203.0.113.5 - - [15/Jan/2026:01:16:52 +0000] "GET /api/v1/logout HTTP/1.1" 200 25287 "-" "python-requests/2.28.0" 1599ms
+203.0.113.17 - - [15/Jan/2026:12:11:41 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 32425 "-" "Googlebot/2.1" 829ms
+198.51.100.3 - - [15/Jan/2026:19:41:06 +0000] "GET /api/v1/products HTTP/1.1" 304 50578 "-" "curl/7.88.1" 1774ms
+203.0.113.29 - - [15/Jan/2026:23:16:49 +0000] "GET /api/v1/login HTTP/1.1" 200 4978 "-" "Googlebot/2.1" 296ms
+203.0.113.29 - - [15/Jan/2026:21:24:17 +0000] "GET /api/v1/users/profile HTTP/1.1" 204 9955 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 11ms
+203.0.113.10 - - [15/Jan/2026:22:49:31 +0000] "POST /api/v1/users/profile HTTP/1.1" 201 37859 "-" "Googlebot/2.1" 23ms
+198.51.100.2 - - [15/Jan/2026:07:00:24 +0000] "POST /static/css/main.css HTTP/1.1" 404 51379 "-" "Googlebot/2.1" 295ms
+198.51.100.16 - - [15/Jan/2026:21:19:25 +0000] "PUT /api/v1/login HTTP/1.1" 304 35281 "-" "python-requests/2.28.0" 1478ms
+203.0.113.4 - - [15/Jan/2026:09:41:12 +0000] "GET /metrics HTTP/1.1" 304 22486 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 337ms
+203.0.113.12 - - [15/Jan/2026:03:40:44 +0000] "GET /static/css/main.css HTTP/1.1" 403 12717 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1232ms
+203.0.113.23 - - [15/Jan/2026:01:12:01 +0000] "PUT /api/v1/login HTTP/1.1" 401 28903 "-" "curl/7.88.1" 784ms
+198.51.100.18 - - [15/Jan/2026:15:34:53 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 4328 "-" "python-requests/2.28.0" 2222ms
+203.0.113.29 - - [15/Jan/2026:12:07:13 +0000] "GET /api/v1/users HTTP/1.1" 200 3873 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1391ms
+198.51.100.13 - - [15/Jan/2026:07:59:04 +0000] "DELETE /api/v1/search?q=laptop HTTP/1.1" 404 35364 "-" "Googlebot/2.1" 618ms
+203.0.113.3 - - [15/Jan/2026:01:15:44 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 403 1449 "-" "Googlebot/2.1" 1938ms
+198.51.100.13 - - [15/Jan/2026:03:29:39 +0000] "GET /api/v1/users HTTP/1.1" 200 41662 "-" "python-requests/2.28.0" 212ms
+203.0.113.11 - - [15/Jan/2026:19:14:04 +0000] "GET /static/js/app.js HTTP/1.1" 200 7682 "-" "Googlebot/2.1" 2044ms
+203.0.113.13 - - [15/Jan/2026:03:43:36 +0000] "POST /metrics HTTP/1.1" 429 44659 "-" "python-requests/2.28.0" 1654ms
+198.51.100.6 - - [15/Jan/2026:05:21:04 +0000] "GET /metrics HTTP/1.1" 200 50284 "-" "Googlebot/2.1" 194ms
+203.0.113.8 - - [15/Jan/2026:17:10:28 +0000] "GET /api/v1/products HTTP/1.1" 500 27407 "-" "python-requests/2.28.0" 696ms
+203.0.113.16 - - [15/Jan/2026:00:56:31 +0000] "GET /api/v1/products HTTP/1.1" 200 41631 "-" "curl/7.88.1" 1548ms
+203.0.113.6 - - [15/Jan/2026:22:51:50 +0000] "GET /api/v1/users HTTP/1.1" 200 6041 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1170ms
+198.51.100.2 - - [15/Jan/2026:14:26:15 +0000] "GET /api/v1/orders HTTP/1.1" 200 42131 "-" "Googlebot/2.1" 1117ms
+203.0.113.12 - - [15/Jan/2026:02:40:52 +0000] "GET /favicon.ico HTTP/1.1" 200 47202 "-" "Googlebot/2.1" 2055ms
+203.0.113.20 - - [15/Jan/2026:03:33:06 +0000] "POST /static/css/main.css HTTP/1.1" 200 36750 "-" "curl/7.88.1" 973ms
+198.51.100.11 - - [15/Jan/2026:14:49:40 +0000] "POST /static/js/app.js HTTP/1.1" 500 35571 "-" "curl/7.88.1" 2086ms
+198.51.100.14 - - [15/Jan/2026:21:54:58 +0000] "GET /health HTTP/1.1" 200 12895 "-" "curl/7.88.1" 469ms
+198.51.100.2 - - [15/Jan/2026:20:23:18 +0000] "PUT /api/v1/products HTTP/1.1" 200 44118 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 184ms
+203.0.113.14 - - [15/Jan/2026:03:47:03 +0000] "POST /health HTTP/1.1" 200 40623 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1864ms
+198.51.100.6 - - [15/Jan/2026:02:57:15 +0000] "GET /api/v1/products HTTP/1.1" 200 31988 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2117ms
+198.51.100.18 - - [15/Jan/2026:23:43:57 +0000] "PUT /favicon.ico HTTP/1.1" 400 21562 "-" "curl/7.88.1" 1724ms
+203.0.113.21 - - [15/Jan/2026:07:47:26 +0000] "GET /api/v1/logout HTTP/1.1" 200 21573 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 940ms
+203.0.113.13 - - [15/Jan/2026:15:03:56 +0000] "POST /api/v1/users/profile HTTP/1.1" 200 5018 "-" "Googlebot/2.1" 1937ms
+203.0.113.28 - - [15/Jan/2026:11:08:29 +0000] "GET /api/v1/orders HTTP/1.1" 401 30018 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 737ms
+198.51.100.18 - - [15/Jan/2026:04:02:44 +0000] "GET /api/v1/payments HTTP/1.1" 200 17874 "-" "python-requests/2.28.0" 836ms
+198.51.100.8 - - [15/Jan/2026:13:10:48 +0000] "GET /health HTTP/1.1" 200 7481 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1914ms
+203.0.113.22 - - [15/Jan/2026:05:36:35 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 39759 "-" "Googlebot/2.1" 650ms
+203.0.113.15 - - [15/Jan/2026:15:53:29 +0000] "GET /static/css/main.css HTTP/1.1" 301 32261 "-" "Googlebot/2.1" 894ms
+203.0.113.18 - - [15/Jan/2026:10:27:37 +0000] "GET /api/v1/reports HTTP/1.1" 201 48446 "-" "curl/7.88.1" 1018ms
+203.0.113.15 - - [15/Jan/2026:01:30:46 +0000] "GET /api/v1/users/profile HTTP/1.1" 400 532 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1719ms
+198.51.100.4 - - [15/Jan/2026:14:31:15 +0000] "GET /static/css/main.css HTTP/1.1" 301 26042 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1971ms
+203.0.113.6 - - [15/Jan/2026:11:18:15 +0000] "GET /api/v1/reports HTTP/1.1" 404 26848 "-" "curl/7.88.1" 900ms
+198.51.100.13 - - [15/Jan/2026:22:29:54 +0000] "GET /api/v1/users HTTP/1.1" 204 44045 "-" "curl/7.88.1" 1256ms
+198.51.100.8 - - [15/Jan/2026:05:50:55 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 201 50782 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 575ms
+203.0.113.24 - - [15/Jan/2026:22:21:33 +0000] "PUT /api/v1/reports HTTP/1.1" 401 289 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 297ms
+203.0.113.3 - - [15/Jan/2026:06:50:43 +0000] "GET /static/css/main.css HTTP/1.1" 500 17880 "-" "Googlebot/2.1" 2229ms
+203.0.113.6 - - [15/Jan/2026:03:24:23 +0000] "POST /api/v1/reports HTTP/1.1" 200 33933 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1498ms
+198.51.100.1 - - [15/Jan/2026:17:45:49 +0000] "GET /metrics HTTP/1.1" 200 11686 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2296ms
+203.0.113.14 - - [15/Jan/2026:23:48:37 +0000] "GET /metrics HTTP/1.1" 200 35565 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 473ms
+198.51.100.16 - - [15/Jan/2026:11:57:17 +0000] "GET /api/v1/logout HTTP/1.1" 429 50065 "-" "python-requests/2.28.0" 931ms
+198.51.100.4 - - [15/Jan/2026:14:31:32 +0000] "POST /health HTTP/1.1" 200 4352 "-" "python-requests/2.28.0" 1535ms
+198.51.100.5 - - [15/Jan/2026:14:39:23 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 404 35058 "-" "python-requests/2.28.0" 2190ms
+198.51.100.15 - - [15/Jan/2026:05:18:04 +0000] "GET /api/v1/orders HTTP/1.1" 201 5921 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 336ms
+203.0.113.7 - - [15/Jan/2026:04:55:13 +0000] "GET /health HTTP/1.1" 200 45883 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 614ms
+198.51.100.5 - - [15/Jan/2026:15:22:26 +0000] "GET /health HTTP/1.1" 201 44921 "-" "curl/7.88.1" 2225ms
+203.0.113.29 - - [15/Jan/2026:16:41:21 +0000] "GET /health HTTP/1.1" 200 4325 "-" "curl/7.88.1" 98ms
+203.0.113.27 - - [15/Jan/2026:18:42:44 +0000] "POST /api/v1/payments HTTP/1.1" 401 51765 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1344ms
+198.51.100.5 - - [15/Jan/2026:05:50:16 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 200 37375 "-" "python-requests/2.28.0" 548ms
+203.0.113.15 - - [15/Jan/2026:11:18:29 +0000] "PUT /metrics HTTP/1.1" 200 50646 "-" "curl/7.88.1" 201ms
+203.0.113.11 - - [15/Jan/2026:22:44:57 +0000] "GET /api/v1/reports HTTP/1.1" 304 18893 "-" "curl/7.88.1" 754ms
+198.51.100.14 - - [15/Jan/2026:18:08:28 +0000] "GET /api/v1/products HTTP/1.1" 200 7862 "-" "python-requests/2.28.0" 176ms
+203.0.113.17 - - [15/Jan/2026:11:09:23 +0000] "POST /api/v1/products HTTP/1.1" 200 37063 "-" "python-requests/2.28.0" 150ms
+203.0.113.29 - - [15/Jan/2026:15:49:09 +0000] "GET /api/v1/cart HTTP/1.1" 200 8161 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 110ms
+198.51.100.1 - - [15/Jan/2026:10:41:45 +0000] "POST /api/v1/products HTTP/1.1" 200 48598 "-" "Googlebot/2.1" 2245ms
+203.0.113.19 - - [15/Jan/2026:18:46:58 +0000] "PUT /api/v1/users/profile HTTP/1.1" 200 49624 "-" "curl/7.88.1" 2357ms
+203.0.113.29 - - [15/Jan/2026:04:43:35 +0000] "POST /api/v1/reports HTTP/1.1" 200 48148 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1969ms
+203.0.113.8 - - [15/Jan/2026:11:05:20 +0000] "GET /api/v1/users HTTP/1.1" 201 40669 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 910ms
+203.0.113.4 - - [15/Jan/2026:00:05:34 +0000] "GET /favicon.ico HTTP/1.1" 301 14758 "-" "curl/7.88.1" 1146ms
+203.0.113.29 - - [15/Jan/2026:19:38:32 +0000] "GET /api/v1/cart HTTP/1.1" 201 12943 "-" "python-requests/2.28.0" 2016ms
+203.0.113.4 - - [15/Jan/2026:12:23:00 +0000] "POST /static/css/main.css HTTP/1.1" 200 47121 "-" "python-requests/2.28.0" 1759ms
+203.0.113.19 - - [15/Jan/2026:06:46:56 +0000] "POST /metrics HTTP/1.1" 200 29401 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2305ms
+203.0.113.29 - - [15/Jan/2026:23:57:26 +0000] "POST /api/v1/logout HTTP/1.1" 201 19115 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 678ms
+203.0.113.9 - - [15/Jan/2026:10:04:59 +0000] "GET /api/v1/products HTTP/1.1" 200 20072 "-" "Googlebot/2.1" 1952ms
+198.51.100.9 - - [15/Jan/2026:05:35:29 +0000] "POST /api/v1/login HTTP/1.1" 200 27034 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1127ms
+198.51.100.17 - - [15/Jan/2026:15:02:52 +0000] "GET /api/v1/orders HTTP/1.1" 200 25219 "-" "Googlebot/2.1" 1193ms
+203.0.113.20 - - [15/Jan/2026:00:50:00 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 304 48687 "-" "curl/7.88.1" 1906ms
+203.0.113.10 - - [15/Jan/2026:20:42:57 +0000] "GET /health HTTP/1.1" 401 41917 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1943ms
+203.0.113.19 - - [15/Jan/2026:03:48:17 +0000] "POST /api/v1/products HTTP/1.1" 204 45278 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1010ms
+198.51.100.3 - - [15/Jan/2026:18:27:55 +0000] "GET /favicon.ico HTTP/1.1" 429 23908 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2388ms
+203.0.113.17 - - [15/Jan/2026:00:54:16 +0000] "PUT /api/v1/reports HTTP/1.1" 200 24658 "-" "Googlebot/2.1" 2107ms
+203.0.113.11 - - [15/Jan/2026:05:03:17 +0000] "GET /api/v1/products HTTP/1.1" 200 30414 "-" "python-requests/2.28.0" 562ms
+203.0.113.24 - - [15/Jan/2026:16:40:59 +0000] "POST /api/v1/payments HTTP/1.1" 200 3392 "-" "python-requests/2.28.0" 1195ms
+203.0.113.5 - - [15/Jan/2026:19:48:10 +0000] "DELETE /api/v1/orders HTTP/1.1" 500 41358 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 758ms
+198.51.100.6 - - [15/Jan/2026:21:44:44 +0000] "POST /static/js/app.js HTTP/1.1" 200 45090 "-" "python-requests/2.28.0" 1241ms
+203.0.113.24 - - [15/Jan/2026:04:33:18 +0000] "GET /api/v1/cart HTTP/1.1" 400 23244 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 596ms
+203.0.113.24 - - [15/Jan/2026:04:32:14 +0000] "PUT /static/css/main.css HTTP/1.1" 200 10884 "-" "curl/7.88.1" 427ms
+203.0.113.13 - - [15/Jan/2026:13:29:58 +0000] "DELETE /static/js/app.js HTTP/1.1" 304 46897 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2265ms
+203.0.113.5 - - [15/Jan/2026:09:44:23 +0000] "GET /static/js/app.js HTTP/1.1" 200 1338 "-" "python-requests/2.28.0" 1972ms
+203.0.113.9 - - [15/Jan/2026:22:19:01 +0000] "PUT /api/v1/users/profile HTTP/1.1" 400 34483 "-" "curl/7.88.1" 1409ms
+198.51.100.19 - - [15/Jan/2026:09:08:13 +0000] "GET /api/v1/orders HTTP/1.1" 200 45697 "-" "curl/7.88.1" 591ms
+203.0.113.9 - - [15/Jan/2026:00:49:30 +0000] "GET /static/css/main.css HTTP/1.1" 404 50205 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 465ms
+203.0.113.28 - - [15/Jan/2026:01:30:07 +0000] "GET /api/v1/orders HTTP/1.1" 200 2349 "-" "Googlebot/2.1" 2111ms
+203.0.113.17 - - [15/Jan/2026:03:58:38 +0000] "GET /api/v1/login HTTP/1.1" 200 43950 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 50ms
+203.0.113.14 - - [15/Jan/2026:04:54:47 +0000] "GET /api/v1/products HTTP/1.1" 403 23238 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 127ms
+203.0.113.18 - - [15/Jan/2026:18:04:06 +0000] "POST /metrics HTTP/1.1" 200 33009 "-" "Googlebot/2.1" 998ms
+198.51.100.9 - - [15/Jan/2026:05:57:48 +0000] "GET /api/v1/cart HTTP/1.1" 200 47111 "-" "python-requests/2.28.0" 792ms
+198.51.100.6 - - [15/Jan/2026:11:44:37 +0000] "GET /api/v1/reports HTTP/1.1" 200 14225 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2073ms
+203.0.113.12 - - [15/Jan/2026:13:13:32 +0000] "PUT /api/v1/payments HTTP/1.1" 200 12052 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1461ms
+203.0.113.15 - - [15/Jan/2026:03:33:08 +0000] "POST /api/v1/login HTTP/1.1" 500 20796 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 514ms
+198.51.100.3 - - [15/Jan/2026:10:31:07 +0000] "POST /api/v1/reports HTTP/1.1" 200 36712 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 174ms
+203.0.113.25 - - [15/Jan/2026:07:35:26 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 400 48445 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1285ms
+203.0.113.19 - - [15/Jan/2026:00:43:31 +0000] "POST /api/v1/orders HTTP/1.1" 200 31373 "-" "curl/7.88.1" 1513ms
+198.51.100.15 - - [15/Jan/2026:04:25:25 +0000] "GET /static/css/main.css HTTP/1.1" 201 34453 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 356ms
+198.51.100.16 - - [15/Jan/2026:10:12:38 +0000] "GET /api/v1/reports HTTP/1.1" 200 4440 "-" "curl/7.88.1" 1497ms
+203.0.113.26 - - [15/Jan/2026:22:49:37 +0000] "GET /api/v1/orders HTTP/1.1" 201 47726 "-" "python-requests/2.28.0" 2052ms
+198.51.100.9 - - [15/Jan/2026:21:38:25 +0000] "GET /api/v1/logout HTTP/1.1" 401 26429 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1466ms
+198.51.100.3 - - [15/Jan/2026:03:16:31 +0000] "DELETE /health HTTP/1.1" 200 50531 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1870ms
+198.51.100.3 - - [15/Jan/2026:02:31:43 +0000] "GET /api/v1/payments HTTP/1.1" 200 2147 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 415ms
+203.0.113.2 - - [15/Jan/2026:09:39:39 +0000] "GET /static/css/main.css HTTP/1.1" 400 44712 "-" "curl/7.88.1" 1347ms
+203.0.113.7 - - [15/Jan/2026:06:18:42 +0000] "GET /api/v1/payments HTTP/1.1" 500 34275 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2024ms
+198.51.100.3 - - [15/Jan/2026:17:01:48 +0000] "PUT /api/v1/cart HTTP/1.1" 200 35749 "-" "Googlebot/2.1" 1415ms
+203.0.113.3 - - [15/Jan/2026:12:28:29 +0000] "POST /api/v1/users/profile HTTP/1.1" 200 25341 "-" "python-requests/2.28.0" 1851ms
+203.0.113.3 - - [15/Jan/2026:15:27:08 +0000] "GET /api/v1/products HTTP/1.1" 304 43415 "-" "curl/7.88.1" 1249ms
+203.0.113.20 - - [15/Jan/2026:21:35:43 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 500 7368 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2338ms
+198.51.100.6 - - [15/Jan/2026:12:16:31 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 304 10443 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2083ms
+198.51.100.9 - - [15/Jan/2026:01:01:37 +0000] "POST /favicon.ico HTTP/1.1" 404 23318 "-" "python-requests/2.28.0" 1173ms
+203.0.113.3 - - [15/Jan/2026:20:21:24 +0000] "GET /static/js/app.js HTTP/1.1" 200 23063 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2399ms
+203.0.113.7 - - [15/Jan/2026:21:15:15 +0000] "POST /metrics HTTP/1.1" 200 27196 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1446ms
+203.0.113.16 - - [15/Jan/2026:03:21:10 +0000] "GET /favicon.ico HTTP/1.1" 200 45288 "-" "python-requests/2.28.0" 276ms
+203.0.113.2 - - [15/Jan/2026:16:57:26 +0000] "POST /api/v1/users HTTP/1.1" 201 43307 "-" "Googlebot/2.1" 1738ms
+203.0.113.18 - - [15/Jan/2026:12:36:24 +0000] "GET /api/v1/reports HTTP/1.1" 204 38734 "-" "python-requests/2.28.0" 99ms
+203.0.113.21 - - [15/Jan/2026:15:32:51 +0000] "GET /api/v1/logout HTTP/1.1" 204 6757 "-" "python-requests/2.28.0" 851ms
+198.51.100.14 - - [15/Jan/2026:06:31:40 +0000] "POST /api/v1/products HTTP/1.1" 401 19829 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1496ms
+203.0.113.5 - - [15/Jan/2026:12:51:14 +0000] "GET /health HTTP/1.1" 200 3315 "-" "Googlebot/2.1" 1225ms
+198.51.100.11 - - [15/Jan/2026:02:36:51 +0000] "GET /api/v1/reports HTTP/1.1" 400 6408 "-" "python-requests/2.28.0" 1387ms
+198.51.100.5 - - [15/Jan/2026:16:51:19 +0000] "PUT /static/css/main.css HTTP/1.1" 200 22961 "-" "python-requests/2.28.0" 322ms
+203.0.113.28 - - [15/Jan/2026:16:29:42 +0000] "POST /api/v1/orders HTTP/1.1" 201 26565 "-" "Googlebot/2.1" 1037ms
+198.51.100.7 - - [15/Jan/2026:18:31:13 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 41346 "-" "curl/7.88.1" 2122ms
+198.51.100.14 - - [15/Jan/2026:23:40:03 +0000] "PUT /health HTTP/1.1" 401 35112 "-" "Googlebot/2.1" 1784ms
+198.51.100.5 - - [15/Jan/2026:23:43:48 +0000] "GET /metrics HTTP/1.1" 201 9882 "-" "curl/7.88.1" 992ms
+203.0.113.20 - - [15/Jan/2026:08:52:18 +0000] "POST /static/css/main.css HTTP/1.1" 200 4422 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 841ms
+198.51.100.13 - - [15/Jan/2026:07:07:09 +0000] "GET /health HTTP/1.1" 404 39602 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 975ms
+203.0.113.13 - - [15/Jan/2026:13:27:41 +0000] "GET /api/v1/orders HTTP/1.1" 200 30619 "-" "Googlebot/2.1" 1996ms
+203.0.113.3 - - [15/Jan/2026:08:42:35 +0000] "GET /api/v1/products HTTP/1.1" 200 9141 "-" "python-requests/2.28.0" 127ms
+203.0.113.12 - - [15/Jan/2026:02:20:38 +0000] "GET /api/v1/reports HTTP/1.1" 204 51464 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 89ms
+203.0.113.20 - - [15/Jan/2026:23:53:08 +0000] "GET /api/v1/users/profile HTTP/1.1" 201 24018 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 377ms
+203.0.113.16 - - [15/Jan/2026:21:53:37 +0000] "GET /favicon.ico HTTP/1.1" 429 32984 "-" "Googlebot/2.1" 502ms
+198.51.100.5 - - [15/Jan/2026:10:53:37 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 200 15802 "-" "python-requests/2.28.0" 508ms
+198.51.100.19 - - [15/Jan/2026:06:09:06 +0000] "POST /api/v1/logout HTTP/1.1" 429 48956 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 974ms
+203.0.113.12 - - [15/Jan/2026:01:31:34 +0000] "GET /health HTTP/1.1" 201 26963 "-" "Googlebot/2.1" 1049ms
+203.0.113.24 - - [15/Jan/2026:08:56:50 +0000] "GET /metrics HTTP/1.1" 304 27972 "-" "curl/7.88.1" 1953ms
+203.0.113.10 - - [15/Jan/2026:20:57:38 +0000] "POST /api/v1/search?q=laptop HTTP/1.1" 404 24300 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1270ms
+203.0.113.3 - - [15/Jan/2026:12:19:40 +0000] "GET /api/v1/reports HTTP/1.1" 403 15907 "-" "Googlebot/2.1" 1044ms
+198.51.100.16 - - [15/Jan/2026:14:24:00 +0000] "POST /api/v1/users/profile HTTP/1.1" 404 8198 "-" "curl/7.88.1" 2198ms
+203.0.113.26 - - [15/Jan/2026:06:55:56 +0000] "GET /health HTTP/1.1" 200 49788 "-" "python-requests/2.28.0" 972ms
+203.0.113.11 - - [15/Jan/2026:08:55:05 +0000] "PUT /api/v1/payments HTTP/1.1" 200 50449 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1672ms
+198.51.100.3 - - [15/Jan/2026:05:44:16 +0000] "PUT /api/v1/reports HTTP/1.1" 201 22005 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1738ms
+198.51.100.4 - - [15/Jan/2026:14:44:01 +0000] "GET /metrics HTTP/1.1" 201 39660 "-" "python-requests/2.28.0" 2251ms
+203.0.113.4 - - [15/Jan/2026:12:12:40 +0000] "GET /api/v1/payments HTTP/1.1" 201 42215 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 565ms
+203.0.113.20 - - [15/Jan/2026:16:45:49 +0000] "POST /favicon.ico HTTP/1.1" 200 7463 "-" "curl/7.88.1" 654ms
+198.51.100.13 - - [15/Jan/2026:14:30:55 +0000] "GET /static/js/app.js HTTP/1.1" 400 45141 "-" "python-requests/2.28.0" 1688ms
+198.51.100.19 - - [15/Jan/2026:06:05:26 +0000] "GET /health HTTP/1.1" 200 45253 "-" "python-requests/2.28.0" 1349ms
+203.0.113.24 - - [15/Jan/2026:00:59:35 +0000] "GET /static/css/main.css HTTP/1.1" 200 37581 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 927ms
+198.51.100.13 - - [15/Jan/2026:22:54:10 +0000] "GET /api/v1/users/profile HTTP/1.1" 200 30505 "-" "python-requests/2.28.0" 820ms
+203.0.113.4 - - [15/Jan/2026:02:23:10 +0000] "POST /favicon.ico HTTP/1.1" 201 39547 "-" "curl/7.88.1" 1073ms
+198.51.100.8 - - [15/Jan/2026:21:31:07 +0000] "GET /api/v1/users HTTP/1.1" 404 34661 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1790ms
+203.0.113.15 - - [15/Jan/2026:04:27:54 +0000] "GET /api/v1/orders HTTP/1.1" 200 19071 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2032ms
+203.0.113.14 - - [15/Jan/2026:05:26:50 +0000] "GET /static/js/app.js HTTP/1.1" 200 47825 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 783ms
+203.0.113.10 - - [15/Jan/2026:11:37:43 +0000] "GET /health HTTP/1.1" 200 15632 "-" "curl/7.88.1" 1855ms
+198.51.100.13 - - [15/Jan/2026:22:25:43 +0000] "PUT /api/v1/login HTTP/1.1" 200 30928 "-" "python-requests/2.28.0" 553ms
+203.0.113.14 - - [15/Jan/2026:03:35:03 +0000] "POST /api/v1/reports HTTP/1.1" 201 48441 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1057ms
+203.0.113.4 - - [15/Jan/2026:21:51:38 +0000] "POST /api/v1/users/profile HTTP/1.1" 200 31063 "-" "Googlebot/2.1" 1459ms
+198.51.100.17 - - [15/Jan/2026:12:42:23 +0000] "GET /api/v1/users HTTP/1.1" 200 33265 "-" "python-requests/2.28.0" 1568ms
+203.0.113.9 - - [15/Jan/2026:15:59:21 +0000] "GET /favicon.ico HTTP/1.1" 200 17258 "-" "Googlebot/2.1" 703ms
+198.51.100.1 - - [15/Jan/2026:04:16:07 +0000] "GET /api/v1/login HTTP/1.1" 200 46747 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 2180ms
+203.0.113.21 - - [15/Jan/2026:09:57:56 +0000] "GET /api/v1/products HTTP/1.1" 204 18615 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1484ms
+203.0.113.17 - - [15/Jan/2026:23:31:48 +0000] "GET /api/v1/cart HTTP/1.1" 200 28758 "-" "python-requests/2.28.0" 683ms
+203.0.113.10 - - [15/Jan/2026:05:02:30 +0000] "PUT /api/v1/users HTTP/1.1" 200 9940 "-" "curl/7.88.1" 231ms
+203.0.113.17 - - [15/Jan/2026:01:28:22 +0000] "GET /api/v1/reports HTTP/1.1" 201 28801 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 483ms
+198.51.100.17 - - [15/Jan/2026:11:05:13 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 204 7572 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 614ms
+203.0.113.19 - - [15/Jan/2026:18:57:42 +0000] "GET /static/js/app.js HTTP/1.1" 200 49347 "-" "python-requests/2.28.0" 2091ms
+198.51.100.9 - - [15/Jan/2026:13:58:04 +0000] "GET /favicon.ico HTTP/1.1" 200 34672 "-" "curl/7.88.1" 2345ms
+203.0.113.16 - - [15/Jan/2026:21:43:07 +0000] "PUT /api/v1/payments HTTP/1.1" 200 21738 "-" "python-requests/2.28.0" 114ms
+203.0.113.26 - - [15/Jan/2026:02:29:53 +0000] "POST /favicon.ico HTTP/1.1" 200 21403 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 637ms
+198.51.100.17 - - [15/Jan/2026:01:41:39 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 401 17850 "-" "python-requests/2.28.0" 31ms
+203.0.113.29 - - [15/Jan/2026:01:51:41 +0000] "POST /api/v1/reports HTTP/1.1" 404 37500 "-" "curl/7.88.1" 537ms
+203.0.113.19 - - [15/Jan/2026:19:24:05 +0000] "POST /api/v1/logout HTTP/1.1" 200 48945 "-" "Googlebot/2.1" 297ms
+203.0.113.26 - - [15/Jan/2026:00:54:13 +0000] "GET /api/v1/products HTTP/1.1" 200 50720 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1641ms
+203.0.113.11 - - [15/Jan/2026:09:31:51 +0000] "POST /api/v1/logout HTTP/1.1" 201 18873 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 639ms
+203.0.113.28 - - [15/Jan/2026:21:06:53 +0000] "GET /api/v1/users/profile HTTP/1.1" 404 39751 "-" "python-requests/2.28.0" 545ms
+203.0.113.24 - - [15/Jan/2026:08:36:38 +0000] "DELETE /api/v1/orders HTTP/1.1" 204 29392 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1597ms
+203.0.113.28 - - [15/Jan/2026:20:27:05 +0000] "GET /api/v1/logout HTTP/1.1" 201 24332 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 771ms
+203.0.113.3 - - [15/Jan/2026:15:33:40 +0000] "DELETE /metrics HTTP/1.1" 201 44531 "-" "curl/7.88.1" 926ms
+198.51.100.13 - - [15/Jan/2026:15:19:09 +0000] "DELETE /api/v1/login HTTP/1.1" 200 30885 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1799ms
+203.0.113.9 - - [15/Jan/2026:18:03:35 +0000] "GET /static/js/app.js HTTP/1.1" 200 34481 "-" "python-requests/2.28.0" 1759ms
+203.0.113.5 - - [15/Jan/2026:03:29:42 +0000] "GET /api/v1/cart HTTP/1.1" 200 33666 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1748ms
+198.51.100.18 - - [15/Jan/2026:00:07:47 +0000] "GET /metrics HTTP/1.1" 200 38575 "-" "Googlebot/2.1" 342ms
+198.51.100.14 - - [15/Jan/2026:13:56:45 +0000] "PUT /api/v1/products HTTP/1.1" 200 25952 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 193ms
+203.0.113.20 - - [15/Jan/2026:08:21:58 +0000] "POST /favicon.ico HTTP/1.1" 404 30018 "-" "Googlebot/2.1" 1850ms
+203.0.113.12 - - [15/Jan/2026:13:34:01 +0000] "GET /api/v1/products HTTP/1.1" 200 49157 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 1070ms
+203.0.113.1 - - [15/Jan/2026:22:25:55 +0000] "POST /api/v1/login HTTP/1.1" 200 11454 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1962ms
+198.51.100.14 - - [15/Jan/2026:09:05:08 +0000] "PUT /health HTTP/1.1" 401 40618 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1485ms
+203.0.113.9 - - [15/Jan/2026:06:30:41 +0000] "GET /api/v1/orders HTTP/1.1" 200 1241 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 778ms
+203.0.113.10 - - [15/Jan/2026:02:19:49 +0000] "GET /static/css/main.css HTTP/1.1" 401 51974 "-" "curl/7.88.1" 2214ms
+198.51.100.1 - - [15/Jan/2026:04:47:44 +0000] "GET /api/v1/search?q=laptop HTTP/1.1" 201 1629 "-" "curl/7.88.1" 485ms
+203.0.113.29 - - [15/Jan/2026:09:36:53 +0000] "PUT /api/v1/search?q=laptop HTTP/1.1" 200 29659 "-" "curl/7.88.1" 1001ms
+203.0.113.26 - - [15/Jan/2026:15:47:37 +0000] "GET /metrics HTTP/1.1" 200 6928 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 1776ms
+198.51.100.10 - - [15/Jan/2026:18:46:39 +0000] "GET /api/v1/users HTTP/1.1" 204 26393 "-" "Googlebot/2.1" 1999ms
+198.51.100.15 - - [15/Jan/2026:13:36:20 +0000] "PUT /api/v1/orders HTTP/1.1" 404 4178 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 2171ms
