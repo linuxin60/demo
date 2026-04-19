@@ -1,0 +1,200 @@
+[2026-01-15 00:03:10.027] [WARN ] [auth-service] Rate limit approaching forIP 10.0.0.1
+[2026-01-15 01:03:27.885] [INFO ] [api-gateway] Cache hit for key user_5
+[2026-01-15 02:56:24.860] [INFO ] [cache-service] Token refreshed for user_5
+[2026-01-15 03:53:17.946] [WARN ] [api-gateway] Response time 1200ms exceeds threshold
+[2026-01-15 04:37:18.490] [ERROR] [cache-service] Unhandled exception in handler
+[2026-01-15 05:37:54.276] [INFO ] [db-service] Query executed in 87ms
+[2026-01-15 06:05:35.902] [ERROR] [worker] Timeout after 1200s waiting for lock
+[2026-01-15 07:41:43.810] [INFO ] [worker] Scheduled task completed
+[2026-01-15 08:22:49.133] [WARN ] [auth-service] Rate limit approaching forIP 250
+[2026-01-15 09:37:39.377] [WARN ] [worker] Response time 5ms exceeds threshold
+[2026-01-15 10:42:37.233] [ERROR] [cache-service] Connection refused to 5:5432
+[2026-01-15 11:21:40.647] [WARN ] [auth-service] Retry attempt 250 of 3
+[2026-01-15 12:07:50.921] [INFO ] [auth-service] User session started
+[2026-01-15 13:05:36.720] [INFO ] [cache-service] User session started
+[2026-01-15 14:19:32.842] [INFO ] [api-gateway] User session started
+[2026-01-15 15:45:48.991] [INFO ] [db-service] Request processed successfully
+[2026-01-15 16:14:04.446] [INFO ] [api-gateway] Query executed in 1200ms
+[2026-01-15 17:05:29.074] [WARN ] [auth-service] Response time 5ms exceeds threshold
+[2026-01-15 18:44:34.373] [INFO ] [api-gateway] Scheduled task completed
+[2026-01-15 19:40:57.845] [INFO ] [api-gateway] Connection pool size: 1200
+[2026-01-15 20:42:30.903] [ERROR] [worker] Connection refused to 5:5432
+[2026-01-15 21:20:55.537] [INFO ] [db-service] Token refreshed for user_3
+[2026-01-15 22:51:33.227] [WARN ] [auth-service] Response time 1200ms exceeds threshold
+[2026-01-15 23:05:07.793] [INFO ] [db-service] Health check passed
+[2026-01-15 00:18:16.975] [WARN ] [auth-service] Response time 5ms exceeds threshold
+[2026-01-15 01:43:59.988] [INFO ] [auth-service] User session started
+[2026-01-15 02:48:04.455] [ERROR] [auth-service] Connection refused to 3:5432
+[2026-01-15 03:34:49.016] [INFO ] [api-gateway] Connection pool size: 1200
+[2026-01-15 04:42:20.129] [ERROR] [worker] Connection refused to 3:5432
+[2026-01-15 05:36:58.336] [WARN ] [db-service] Rate limit approaching forIP 42
+[2026-01-15 06:51:24.287] [WARN ] [api-gateway] Retry attempt 87 of 3
+[2026-01-15 07:48:35.107] [INFO ] [db-service] Health check passed
+[2026-01-15 08:39:00.076] [WARN ] [cache-service] Memory usage at 5%
+[2026-01-15 09:53:37.001] [ERROR] [worker] Unhandled exception in handler
+[2026-01-15 10:31:33.133] [INFO ] [db-service] Cache hit for key user_1200
+[2026-01-15 11:25:18.902] [INFO ] [api-gateway] Health check passed
+[2026-01-15 12:12:48.033] [INFO ] [cache-service] Token refreshed for user_87
+[2026-01-15 13:11:39.896] [INFO ] [auth-service] Request processed successfully
+[2026-01-15 14:33:43.371] [INFO ] [auth-service] Request processed successfully
+[2026-01-15 15:29:05.885] [INFO ] [worker] Health check passed
+[2026-01-15 16:41:10.647] [INFO ] [db-service] Request processed successfully
+[2026-01-15 17:02:54.594] [ERROR] [auth-service] Failed to write to disk
+[2026-01-15 18:25:48.041] [INFO ] [api-gateway] Health check passed
+[2026-01-15 19:15:31.206] [INFO ] [api-gateway] Health check passed
+[2026-01-15 20:33:20.351] [ERROR] [cache-service] Failed to write to disk
+[2026-01-15 21:39:09.817] [ERROR] [api-gateway] Timeout after 42s waiting for lock
+[2026-01-15 22:09:33.257] [ERROR] [auth-service] Connection refused to 10.0.0.1:5432
+[2026-01-15 23:23:28.546] [ERROR] [worker] Connection refused to 3:5432
+[2026-01-15 00:54:49.299] [ERROR] [api-gateway] Unhandled exception in handler
+[2026-01-15 01:58:02.430] [INFO ] [api-gateway] Connection pool size: 42
+[2026-01-15 02:51:01.499] [WARN ] [worker] Rate limit approaching forIP 250
+[2026-01-15 03:15:03.485] [INFO ] [cache-service] Request processed successfully
+[2026-01-15 04:27:09.190] [INFO ] [db-service] Query executed in 42ms
+[2026-01-15 05:46:19.137] [INFO ] [db-service] User session started
+[2026-01-15 06:36:51.671] [WARN ] [db-service] Memory usage at 10.0.0.1%
+[2026-01-15 07:01:55.328] [INFO ] [db-service] Cache hit for key user_42
+[2026-01-15 08:16:25.206] [INFO ] [cache-service] Query executed in 5ms
+[2026-01-15 09:53:37.139] [INFO ] [db-service] Token refreshed for user_1200
+[2026-01-15 10:55:35.751] [INFO ] [auth-service] Cache hit for key user_250
+[2026-01-15 11:32:40.909] [WARN ] [cache-service] Rate limit approaching forIP 3
+[2026-01-15 12:50:20.337] [ERROR] [auth-service] Timeout after 3s waiting for lock
+[2026-01-15 13:04:56.454] [INFO ] [cache-service] Connection pool size: 250
+[2026-01-15 14:04:03.609] [WARN ] [worker] Rate limit approaching forIP 42
+[2026-01-15 15:31:42.044] [INFO ] [api-gateway] Query executed in 3ms
+[2026-01-15 16:29:16.598] [WARN ] [worker] Memory usage at 3%
+[2026-01-15 17:35:57.478] [INFO ] [api-gateway] Request processed successfully
+[2026-01-15 18:25:52.640] [INFO ] [api-gateway] Scheduled task completed
+[2026-01-15 19:13:06.273] [WARN ] [api-gateway] Rate limit approaching forIP 42
+[2026-01-15 20:50:59.171] [INFO ] [cache-service] Connection pool size: 5
+[2026-01-15 21:17:16.568] [INFO ] [api-gateway] Scheduled task completed
+[2026-01-15 22:52:55.513] [INFO ] [api-gateway] User session started
+[2026-01-15 23:03:52.758] [INFO ] [api-gateway] Cache hit for key user_250
+[2026-01-15 00:31:47.076] [INFO ] [api-gateway] Connection pool size: 42
+[2026-01-15 01:23:24.540] [INFO ] [worker] Token refreshed for user_1200
+[2026-01-15 02:16:43.490] [WARN ] [api-gateway] Memory usage at 250%
+[2026-01-15 03:29:31.064] [INFO ] [auth-service] Scheduled task completed
+[2026-01-15 04:18:02.145] [INFO ] [auth-service] User session started
+[2026-01-15 05:03:16.912] [INFO ] [worker] Cache hit for key user_5
+[2026-01-15 06:50:33.237] [INFO ] [auth-service] Scheduled task completed
+[2026-01-15 07:26:57.062] [INFO ] [worker] User session started
+[2026-01-15 08:46:58.768] [WARN ] [cache-service] Retry attempt 250 of 3
+[2026-01-15 09:00:15.141] [ERROR] [db-service] Timeout after 5s waiting for lock
+[2026-01-15 10:03:16.411] [INFO ] [auth-service] Cache hit for key user_3
+[2026-01-15 11:40:50.135] [INFO ] [cache-service] Connection pool size: 3
+[2026-01-15 12:26:31.908] [INFO ] [db-service] Connection pool size: 5
+[2026-01-15 13:49:51.622] [INFO ] [db-service] Connection pool size: 87
+[2026-01-15 14:41:03.352] [INFO ] [db-service] Cache hit for key user_250
+[2026-01-15 15:44:33.099] [INFO ] [cache-service] Token refreshed for user_3
+[2026-01-15 16:49:25.592] [INFO ] [api-gateway] Connection pool size: 5
+[2026-01-15 17:20:05.106] [INFO ] [worker] Connection pool size: 42
+[2026-01-15 18:56:41.738] [INFO ] [cache-service] Health check passed
+[2026-01-15 19:01:46.148] [WARN ] [api-gateway] Rate limit approaching forIP 1200
+[2026-01-15 20:31:45.876] [INFO ] [cache-service] Connection pool size: 1200
+[2026-01-15 21:16:03.087] [INFO ] [api-gateway] Token refreshed for user_87
+[2026-01-15 22:15:33.904] [INFO ] [api-gateway] Request processed successfully
+[2026-01-15 23:31:32.380] [ERROR] [db-service] Failed to write to disk
+[2026-01-15 00:11:12.740] [INFO ] [worker] Token refreshed for user_42
+[2026-01-15 01:52:25.153] [INFO ] [auth-service] Cache hit for key user_87
+[2026-01-15 02:13:09.797] [INFO ] [api-gateway] Health check passed
+[2026-01-15 03:24:05.878] [INFO ] [db-service] Scheduled task completed
+[2026-01-15 04:45:44.562] [WARN ] [api-gateway] Rate limit approaching forIP 3
+[2026-01-15 05:05:14.668] [INFO ] [db-service] Connection pool size: 250
+[2026-01-15 06:25:05.278] [WARN ] [db-service] Response time 87ms exceeds threshold
+[2026-01-15 07:52:47.077] [INFO ] [cache-service] Request processed successfully
+[2026-01-15 08:59:23.975] [WARN ] [db-service] Response time 250ms exceeds threshold
+[2026-01-15 09:06:15.853] [INFO ] [cache-service] Query executed in 87ms
+[2026-01-15 10:25:31.205] [INFO ] [api-gateway] Scheduled task completed
+[2026-01-15 11:58:50.132] [INFO ] [api-gateway] Token refreshed for user_42
+[2026-01-15 12:20:14.990] [WARN ] [worker] Memory usage at 3%
+[2026-01-15 13:30:03.511] [INFO ] [db-service] Request processed successfully
+[2026-01-15 14:40:20.957] [INFO ] [worker] Token refreshed for user_250
+[2026-01-15 15:03:46.068] [INFO ] [auth-service] Health check passed
+[2026-01-15 16:56:06.942] [INFO ] [db-service] Connection pool size: 5
+[2026-01-15 17:40:24.375] [WARN ] [worker] Rate limit approaching forIP 10.0.0.1
+[2026-01-15 18:21:08.076] [INFO ] [db-service] Health check passed
+[2026-01-15 19:01:45.241] [WARN ] [cache-service] Rate limit approaching forIP 42
+[2026-01-15 20:48:26.283] [INFO ] [db-service] Request processed successfully
+[2026-01-15 21:18:41.584] [INFO ] [cache-service] Cache hit for key user_3
+[2026-01-15 22:20:08.750] [INFO ] [cache-service] Scheduled task completed
+[2026-01-15 23:21:32.009] [INFO ] [worker] Connection pool size: 10.0.0.1
+[2026-01-15 00:22:01.237] [INFO ] [cache-service] Query executed in 3ms
+[2026-01-15 01:17:57.391] [INFO ] [db-service] Cache hit for key user_10.0.0.1
+[2026-01-15 02:02:54.562] [INFO ] [cache-service] Cache hit for key user_250
+[2026-01-15 03:40:11.483] [INFO ] [auth-service] Cache hit for key user_5
+[2026-01-15 04:33:10.102] [INFO ] [api-gateway] Scheduled task completed
+[2026-01-15 05:24:58.686] [INFO ] [cache-service] Health check passed
+[2026-01-15 06:08:32.562] [INFO ] [auth-service] Health check passed
+[2026-01-15 07:04:55.728] [WARN ] [cache-service] Response time 3ms exceeds threshold
+[2026-01-15 08:08:42.783] [WARN ] [db-service] Response time 3ms exceeds threshold
+[2026-01-15 09:58:57.185] [WARN ] [cache-service] Memory usage at 10.0.0.1%
+[2026-01-15 10:22:15.406] [INFO ] [cache-service] Query executed in 10.0.0.1ms
+[2026-01-15 11:32:33.011] [INFO ] [auth-service] Scheduled task completed
+[2026-01-15 12:37:29.867] [INFO ] [api-gateway] Scheduled task completed
+[2026-01-15 13:57:35.528] [INFO ] [api-gateway] Cache hit for key user_250
+[2026-01-15 14:00:23.017] [INFO ] [db-service] Token refreshed for user_87
+[2026-01-15 15:05:13.482] [INFO ] [db-service] Scheduled task completed
+[2026-01-15 16:50:41.910] [INFO ] [api-gateway] Request processed successfully
+[2026-01-15 17:02:25.396] [ERROR] [db-service] Failed to write to disk
+[2026-01-15 18:49:06.271] [INFO ] [api-gateway] Query executed in 87ms
+[2026-01-15 19:02:19.629] [WARN ] [auth-service] Rate limit approaching forIP 10.0.0.1
+[2026-01-15 20:50:05.004] [WARN ] [api-gateway] Rate limit approaching forIP 5
+[2026-01-15 21:15:31.283] [INFO ] [auth-service] Cache hit for key user_10.0.0.1
+[2026-01-15 22:12:54.459] [INFO ] [worker] Scheduled task completed
+[2026-01-15 23:12:45.297] [INFO ] [api-gateway] Scheduled task completed
+[2026-01-15 00:57:40.997] [INFO ] [api-gateway] Token refreshed for user_3
+[2026-01-15 01:33:42.474] [INFO ] [cache-service] Scheduled task completed
+[2026-01-15 02:07:31.847] [INFO ] [db-service] User session started
+[2026-01-15 03:46:33.363] [INFO ] [auth-service] Health check passed
+[2026-01-15 04:06:28.663] [WARN ] [cache-service] Retry attempt 3 of 3
+[2026-01-15 05:14:41.442] [INFO ] [db-service] User session started
+[2026-01-15 06:34:34.947] [INFO ] [cache-service] Cache hit for key user_10.0.0.1
+[2026-01-15 07:34:16.121] [INFO ] [api-gateway] Scheduled task completed
+[2026-01-15 08:50:55.543] [INFO ] [worker] Health check passed
+[2026-01-15 09:57:44.957] [INFO ] [worker] Cache hit for key user_3
+[2026-01-15 10:29:17.675] [INFO ] [api-gateway] Request processed successfully
+[2026-01-15 11:01:42.478] [INFO ] [cache-service] User session started
+[2026-01-15 12:09:49.379] [INFO ] [db-service] Cache hit for key user_250
+[2026-01-15 13:26:16.467] [INFO ] [db-service] Scheduled task completed
+[2026-01-15 14:42:55.588] [INFO ] [api-gateway] Cache hit for key user_5
+[2026-01-15 15:32:29.541] [INFO ] [db-service] Query executed in 250ms
+[2026-01-15 16:51:57.674] [INFO ] [cache-service] Token refreshed for user_3
+[2026-01-15 17:30:11.980] [ERROR] [auth-service] Failed to write to disk
+[2026-01-15 18:00:32.208] [WARN ] [worker] Retry attempt 3 of 3
+[2026-01-15 19:08:32.013] [ERROR] [db-service] Connection refused to 42:5432
+[2026-01-15 20:58:20.352] [INFO ] [db-service] Connection pool size: 5
+[2026-01-15 21:03:08.802] [INFO ] [worker] User session started
+[2026-01-15 22:34:31.249] [WARN ] [cache-service] Rate limit approaching forIP 87
+[2026-01-15 23:12:53.285] [INFO ] [db-service] User session started
+[2026-01-15 00:50:43.925] [INFO ] [worker] Health check passed
+[2026-01-15 01:15:59.145] [ERROR] [auth-service] Unhandled exception in handler
+[2026-01-15 02:04:37.118] [ERROR] [cache-service] Connection refused to 5:5432
+[2026-01-15 03:18:09.502] [INFO ] [api-gateway] Request processed successfully
+[2026-01-15 04:35:49.623] [ERROR] [db-service] Connection refused to 10.0.0.1:5432
+[2026-01-15 05:03:58.058] [INFO ] [worker] Cache hit for key user_42
+[2026-01-15 06:39:07.913] [INFO ] [auth-service] Scheduled task completed
+[2026-01-15 07:17:20.662] [ERROR] [db-service] Timeout after 250s waiting for lock
+[2026-01-15 08:03:42.111] [INFO ] [api-gateway] Request processed successfully
+[2026-01-15 09:59:12.630] [INFO ] [api-gateway] Query executed in 5ms
+[2026-01-15 10:58:31.240] [WARN ] [worker] Response time 1200ms exceeds threshold
+[2026-01-15 11:05:59.068] [INFO ] [cache-service] Token refreshed for user_87
+[2026-01-15 12:22:08.676] [INFO ] [cache-service] Scheduled task completed
+[2026-01-15 13:00:10.480] [INFO ] [cache-service] Request processed successfully
+[2026-01-15 14:01:15.572] [INFO ] [cache-service] Token refreshed for user_5
+[2026-01-15 15:29:21.636] [ERROR] [db-service] Connection refused to 42:5432
+[2026-01-15 16:43:28.344] [INFO ] [db-service] Health check passed
+[2026-01-15 17:48:33.431] [INFO ] [worker] Health check passed
+[2026-01-15 18:24:14.075] [INFO ] [auth-service] Request processed successfully
+[2026-01-15 19:13:59.800] [INFO ] [db-service] Query executed in 250ms
+[2026-01-15 20:29:03.868] [WARN ] [api-gateway] Memory usage at 10.0.0.1%
+[2026-01-15 21:40:32.280] [INFO ] [db-service] Query executed in 3ms
+[2026-01-15 22:58:44.295] [WARN ] [worker] Rate limit approaching forIP 5
+[2026-01-15 23:43:59.180] [INFO ] [api-gateway] Cache hit for key user_1200
+[2026-01-15 00:26:53.210] [INFO ] [cache-service] Token refreshed for user_10.0.0.1
+[2026-01-15 01:49:36.582] [INFO ] [db-service] Connection pool size: 10.0.0.1
+[2026-01-15 02:11:43.687] [ERROR] [db-service] Unhandled exception in handler
+[2026-01-15 03:32:51.812] [INFO ] [cache-service] Request processed successfully
+[2026-01-15 04:34:23.528] [INFO ] [worker] Token refreshed for user_5
+[2026-01-15 05:20:07.811] [INFO ] [api-gateway] Connection pool size: 87
+[2026-01-15 06:55:50.974] [ERROR] [auth-service] Connection refused to 3:5432
+[2026-01-15 07:44:41.728] [INFO ] [worker] Request processed successfully
